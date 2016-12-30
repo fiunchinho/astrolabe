@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/baltic-devops"
+        }
+    },
+    "name": "Baltic DevOps 2017",
+    "date": "TBD",
+    "city": "Tallinn, Estonia",
+    "url": "http://topconf.com/baltic-devOps-2016/"
+}

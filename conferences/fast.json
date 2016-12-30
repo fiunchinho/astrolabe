@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/fast"
+        }
+    },
+    "name": "FAST",
+    "date": "February 27 - March 2",
+    "city": "Santa Clara, California",
+    "url": "https://www.usenix.org/conference/fast17"
+}

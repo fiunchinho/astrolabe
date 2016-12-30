@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/goto-accelerate"
+        }
+    },
+    "name": "GoTo Accelerate",
+    "date": "TBD",
+    "city": "London, England",
+    "url": "http://gotocon.com/accelerate-2016"
+}

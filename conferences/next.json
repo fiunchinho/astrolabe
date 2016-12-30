@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/next"
+        }
+    },
+    "name": ".next",
+    "date": "June 28-30",
+    "city": "Washington, D.C.",
+    "url": "https://www.nutanix.com/next/"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/strata-singapore"
+        }
+    },
+    "name": "Strata + Hadoop World",
+    "date": "December 4-7",
+    "city": "Singapore",
+    "url": "http://conferences.oreilly.com/strata"
+}

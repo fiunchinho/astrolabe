@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/europython"
+        }
+    },
+    "name": "EuroPython",
+    "date": "TBD",
+    "city": "Rimini, Italy",
+    "url": "http://europython.eu/"
+}

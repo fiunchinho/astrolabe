@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/goto-berlin"
+        }
+    },
+    "name": "GoTo Berlin",
+    "date": "November 15-17",
+    "city": "Berlin, Germany",
+    "url": "http://gotober.com/"
+}

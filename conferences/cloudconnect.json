@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/cloudconnect"
+        }
+    },
+    "name": "Cloud Connect China",
+    "date": "September 5-7",
+    "city": "Shanghai, China",
+    "url": "http://www.cloudconnectevent.cn/en/"
+}

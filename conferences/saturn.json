@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/saturn"
+        }
+    },
+    "name": "SATURN",
+    "date": "May 1-4",
+    "city": "Denver, Colorado",
+    "url": "http://www.sei.cmu.edu/saturn/2017/"
+}

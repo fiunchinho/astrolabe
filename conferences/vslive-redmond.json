@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/vslive-redmond"
+        }
+    },
+    "name": "Visual Studio Live!",
+    "date": "August 14-18",
+    "city": "Redmond, Washington",
+    "url": "https://vslive.com/Home.aspx"
+}

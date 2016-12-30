@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/spiceworld-london"
+        }
+    },
+    "name": "Spiceworld",
+    "date": "TBD",
+    "city": "London, England",
+    "url": "http://www.spiceworks.com/spiceworld/london/"
+}

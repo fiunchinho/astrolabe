@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/linux-storage-filesystem-and-mm-summit"
+        }
+    },
+    "name": "Linux Storage Filesystem and MM Summit",
+    "date": "March 20-21",
+    "city": "Cambridge, MA",
+    "url": "http://events.linuxfoundation.org/events/linux-storage-filesystem-and-mm-summit"
+}

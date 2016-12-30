@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/datacentreworldasia"
+        }
+    },
+    "name": "Data Centre World Asia",
+    "date": "October 11-12",
+    "city": "Singapore",
+    "url": "http://www.datacentreworldasia.com/"
+}

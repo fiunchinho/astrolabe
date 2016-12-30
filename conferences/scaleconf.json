@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/scaleconf"
+        }
+    },
+    "name": "ScaleConf",
+    "date": "March 9-10",
+    "city": "Cape Town, South Africa",
+    "url": "http://scaleconf.org/"
+}

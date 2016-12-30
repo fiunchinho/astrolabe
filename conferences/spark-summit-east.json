@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/spark-summit-east"
+        }
+    },
+    "name": "Spark Summit East",
+    "date": "February 7-9",
+    "city": "Boston, Massachusetts",
+    "url": "https://spark-summit.org/east-2016"
+}

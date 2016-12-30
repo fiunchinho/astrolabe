@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/elasticon"
+        }
+    },
+    "name": "Elasticon",
+    "date": "February 17-19",
+    "city": "San Francisco, California",
+    "url": "https://www.elastic.co/elasticon/conf/2016/sf"
+}

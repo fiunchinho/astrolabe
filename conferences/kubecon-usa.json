@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/kubecon-usa"
+        }
+    },
+    "name": "CloudNativeCon + KubeCon",
+    "date": "December 6-7",
+    "city": "Austin, Texas",
+    "url": "http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-north-america"
+}

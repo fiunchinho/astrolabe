@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/openiot-summit"
+        }
+    },
+    "name": "OpenIoT Summit",
+    "date": "February 21-23",
+    "city": "Portland, Oregon",
+    "url": "http://events.linuxfoundation.org/events/openiot-summit"
+}

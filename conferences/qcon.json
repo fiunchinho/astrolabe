@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/qcon"
+        }
+    },
+    "name": "QCon",
+    "date": "March 6-8",
+    "city": "London, England",
+    "url": "http://qconlondon.com/"
+}

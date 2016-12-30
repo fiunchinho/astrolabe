@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-amsterdam"
+        }
+    },
+    "name": "DevOpsDays Amsterdam",
+    "date": "June 28-30",
+    "city": "Amsterdam, the Netherlands",
+    "url": "https://www.devopsdays.org/events/2017-amsterdam/welcome"
+}

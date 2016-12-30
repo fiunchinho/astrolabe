@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/aws-atlanta"
+        }
+    },
+    "name": "AWS Summit Atlanta",
+    "date": "TBD",
+    "city": "Atlanta, Georgia",
+    "url": "https://aws.amazon.com/summits/enterprise-summit-atlanta/"
+}

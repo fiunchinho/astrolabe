@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devops-dockercamp"
+        }
+    },
+    "name": "DevOps Docker Camp",
+    "date": "TBD",
+    "city": "Munich, Germany",
+    "url": "http://devops-training.de/"
+}

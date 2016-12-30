@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/craft-conf"
+        }
+    },
+    "name": "Craft Conf",
+    "date": "TBD",
+    "city": "Budapest, Hungary",
+    "url": "craft-conf.com"
+}

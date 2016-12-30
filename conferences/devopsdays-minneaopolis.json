@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-minneaopolis"
+        }
+    },
+    "name": "DevOpsDays Minneapolis",
+    "date": "July 25-26",
+    "city": "Minneapolis, Minnesota",
+    "url": "https://www.devopsdays.org/events/2017-minneapolis/welcome"
+}

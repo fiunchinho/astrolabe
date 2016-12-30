@@ -1,0 +1,10 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/oreilly-security"
+        }
+    },
+    "name": "O'Reilly Security",
+    "date": "October 29 - November 1",
+    "city": "New York City, NY"
+}

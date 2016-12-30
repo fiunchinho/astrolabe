@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/goto-copenhagen"
+        }
+    },
+    "name": "GoTo Copenhagen",
+    "date": "October 1-5",
+    "city": "Copenhagen, Denmark",
+    "url": "http://gotocph.com/"
+}

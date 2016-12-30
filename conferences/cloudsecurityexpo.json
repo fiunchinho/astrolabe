@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/cloudsecurityexpo"
+        }
+    },
+    "name": "Cloud Security Expo",
+    "date": "March 15-16",
+    "city": "London, England",
+    "url": "http://www.cloudsecurityexpo.com/"
+}

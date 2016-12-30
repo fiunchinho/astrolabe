@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/soups"
+        }
+    },
+    "name": "SOUPS",
+    "date": "July 12-14",
+    "city": "Santa Clara, California",
+    "url": "https://www.usenix.org/conference/soups2016"
+}

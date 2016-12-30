@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/game-developers-conference"
+        }
+    },
+    "name": "Game Developers Conference",
+    "date": "February 27 - March 3",
+    "city": "San Francisco, California",
+    "url": "http://www.gdconf.com/"
+}

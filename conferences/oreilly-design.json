@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/oreilly-design"
+        }
+    },
+    "name": "O'Reilly Design",
+    "date": "March 20-22",
+    "city": "San Francisco, California",
+    "url": "http://conferences.oreilly.com/design/ux-interaction-iot-us"
+}

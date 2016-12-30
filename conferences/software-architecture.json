@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/software-architecture"
+        }
+    },
+    "name": "O'Reilly Software Architecture",
+    "date": "April 3-5",
+    "city": "New York, New York",
+    "url": "http://conferences.oreilly.com/software-architecture/sa-ny"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/euroscipy"
+        }
+    },
+    "name": "EuroSciPy",
+    "date": "TBD",
+    "city": "Cambridge, England",
+    "url": "https://www.euroscipy.org"
+}

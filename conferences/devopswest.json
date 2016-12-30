@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopswest"
+        }
+    },
+    "name": "DevOps West",
+    "date": "June 4-9",
+    "city": "Las Vegas, Nevada",
+    "url": "http://devopswest.techwell.com/"
+}

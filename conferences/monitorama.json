@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/monitorama"
+        }
+    },
+    "name": "Monitorama",
+    "date": "May 22-24",
+    "city": "Portland, Oregon",
+    "url": "http://monitorama.com/"
+}

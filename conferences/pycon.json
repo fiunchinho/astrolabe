@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/pycon"
+        }
+    },
+    "name": "PyCon",
+    "date": "May 17-25",
+    "city": "Portland, Oregon",
+    "url": "https://us.pycon.org/2016/"
+}

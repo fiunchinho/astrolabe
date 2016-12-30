@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/shmoocon"
+        }
+    },
+    "name": "ShmooCon",
+    "date": "January 13-15",
+    "city": "Washington, D.C.",
+    "url": "http://shmoocon.org/"
+}

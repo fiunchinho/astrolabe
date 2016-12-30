@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/strata-london"
+        }
+    },
+    "name": "Strata + Hadoop World",
+    "date": "May 22-25",
+    "city": "London, England",
+    "url": "http://conferences.oreilly.com/strata"
+}

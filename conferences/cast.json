@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/cast"
+        }
+    },
+    "name": "CAST",
+    "date": "August 16-18",
+    "city": "Nashville, Tennessee",
+    "url": "https://www.associationforsoftwaretesting.org/conference/cast-2017/"
+}

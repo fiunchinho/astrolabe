@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/aws-reinvent"
+        }
+    },
+    "name": "AWS re:Invent",
+    "date": "November 27 - December 1",
+    "city": "Las Vegas, Nevada",
+    "url": "https://reinvent.awsevents.com/"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/embedded-linux-conference"
+        }
+    },
+    "name": "Embedded Linux Confernece",
+    "date": "February 21-23",
+    "city": "Portland, Oregon",
+    "url": "http://events.linuxfoundation.org/events/embedded-linux-conference"
+}

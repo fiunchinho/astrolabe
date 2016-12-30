@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/vslive-orlando"
+        }
+    },
+    "name": "Visual Studio Live! 360",
+    "date": "March 13-17",
+    "city": "Orlando, Florida",
+    "url": "https://vslive.com/Home.aspx"
+}

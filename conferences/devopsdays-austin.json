@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-austin"
+        }
+    },
+    "name": "DevOpsDays Austin",
+    "date": "May 4-5",
+    "city": "Austin, Texas",
+    "url": "https://www.devopsdays.org/events/2017-austin/welcome"
+}

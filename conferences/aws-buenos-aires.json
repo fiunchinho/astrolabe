@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/aws-buenos-aires"
+        }
+    },
+    "name": "AWS Summit Buenos Aires",
+    "date": "TBD",
+    "city": "Buenos Aires, Argentina",
+    "url": "https://aws.amazon.com/es/summits/buenos-aires/"
+}

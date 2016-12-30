@@ -1,0 +1,1969 @@
+{
+    "_links": {
+        "self": { "href": "/conferences.json" }
+    },
+    "_embedded": {
+      "conferences": [{
+        "_links": {
+            "self": { "href": "/conferences/ces.json" }
+        },
+        "name": "CES",
+        "date": "January 5-8",
+        "city": "Las Vegas, Nevada",
+        "url": "http://www.cesweb.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/shmoocon.json" }
+        },
+        "name": "ShmooCon",
+        "date": "January 13-15",
+        "city": "Washington, D.C.",
+        "url": "http://shmoocon.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/data-day-texas.json" }
+        },
+        "name": "Data Day Texas 2016",
+        "date": "January 14",
+        "city": "Austin, Texas",
+        "url": "http://datadaytexas.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/linux.conf.au.json" }
+        },
+        "name": "linux.conf.au",
+        "date": "January 16-20",
+        "city": "Geelong, Victoria, Australia",
+        "url": "https://linux.conf.au"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/enigma.json" }
+        },
+        "name": "Enigma",
+        "date": "January 30 - February 1",
+        "city": "San Francisco, California",
+        "url": "https://www.usenix.org/conference/enigma2017"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/fosdem.json" }
+        },
+        "name": "Fosdem",
+        "date": "February 4-5",
+        "city": "Brussels, Belgium",
+        "url": "https://fosdem.org/2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/configuration-management-camp.json" }
+        },
+        "name": "Configuration Management Camp",
+        "date": "February 6-7",
+        "city": "Ghent, Belgium",
+        "url": "http://cfgmgmtcamp.eu/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-charlotte.json" }
+        },
+        "name": "DevOpsDays Charlotte",
+        "date": "February 6-7",
+        "city": "Charlotte, North Carolina",
+        "url": "https://www.devopsdays.org/events/2017-charlotte/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/nanog.json" }
+        },
+        "name": "NANOG",
+        "date": "February 6-8",
+        "city": "Washington, D.C.",
+        "url": "https://www.nanog.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/integrated-systems-europe.json" }
+        },
+        "name": "Integrated Systems Europe",
+        "date": "February 7-10",
+        "city": "Amsterdam, the Netherlands",
+        "url": "https://www.iseurope.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/spark-summit-east.json" }
+        },
+        "name": "Spark Summit East",
+        "date": "February 7-9",
+        "city": "Boston, Massachusetts",
+        "url": "https://spark-summit.org/east-2016"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-moscow.json" }
+        },
+        "name": "DevOpsDays Moscow",
+        "date": "February 11",
+        "city": "Moscow, Russia",
+        "url": "https://www.devopsdays.org/events/2017-moscow/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/developerweek.json" }
+        },
+        "name": "DeveloperWeek",
+        "date": "February 11-16",
+        "city": "San Francisco, California",
+        "url": "http://www.developerweek.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/open-source-leadership-summit.json" }
+        },
+        "name": "Open Source Leadership Summit",
+        "date": "February 14-16",
+        "city": "Lake Tahoe, California",
+        "url": "http://events.linuxfoundation.org/events/open-source-leadership-summit"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cisco-live.json" }
+        },
+        "name": "Cisco Live",
+        "date": "February 20-24",
+        "city": "Berlin, Germany",
+        "url": "http://www.ciscolive.com/emea/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/container-world.json" }
+        },
+        "name": "Container World",
+        "date": "February 21-23",
+        "city": "Santa Clara, California",
+        "url": "http://containerevent.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/elasticon.json" }
+        },
+        "name": "Elasticon",
+        "date": "February 17-19",
+        "city": "San Francisco, California",
+        "url": "https://www.elastic.co/elasticon/conf/2016/sf"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/embedded-linux-conference.json" }
+        },
+        "name": "Embedded Linux Confernece",
+        "date": "February 21-23",
+        "city": "Portland, Oregon",
+        "url": "http://events.linuxfoundation.org/events/embedded-linux-conference"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/openiot-summit.json" }
+        },
+        "name": "OpenIoT Summit",
+        "date": "February 21-23",
+        "city": "Portland, Oregon",
+        "url": "http://events.linuxfoundation.org/events/openiot-summit"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/topconf-linz.json" }
+        },
+        "name": "Topconf Linz",
+        "date": "February 22 - March 2",
+        "city": "Linz, Austria",
+        "url": "http://topconf.com/linz-2016/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/fast.json" }
+        },
+        "name": "FAST",
+        "date": "February 27 - March 2",
+        "city": "Santa Clara, California",
+        "url": "https://www.usenix.org/conference/fast17"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/game-developers-conference.json" }
+        },
+        "name": "Game Developers Conference",
+        "date": "February 27 - March 3",
+        "city": "San Francisco, California",
+        "url": "http://www.gdconf.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/mobilewebdevconference.json" }
+        },
+        "name": "Mobile+Web DevCon",
+        "date": "March 1-3",
+        "city": "San Francisco, California",
+        "url": "http://mobilewebdevconference.com/san-francisco-2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/scale.json" }
+        },
+        "name": "Scale",
+        "date": "March 2-5",
+        "city": "Pasadena, California",
+        "url": "https://www.socallinuxexpo.org/scale/14x"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/qcon.json" }
+        },
+        "name": "QCon",
+        "date": "March 6-8",
+        "city": "London, England",
+        "url": "http://qconlondon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-baltimore.json" }
+        },
+        "name": "DevOpsDays Baltimore",
+        "date": "March 7-8",
+        "city": "Baltimore, Maryland",
+        "url": "https://www.devopsdays.org/events/2017-baltimore/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/scaleconf.json" }
+        },
+        "name": "ScaleConf",
+        "date": "March 9-10",
+        "city": "Cape Town, South Africa",
+        "url": "http://scaleconf.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/incontrodevops.json" }
+        },
+        "name": "Incontro DevOps Italia",
+        "date": "March 10",
+        "city": "Bologna, Italy",
+        "url": "http://www.incontrodevops.it/events/idi2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/casitconf.json" }
+        },
+        "name": "Cascadia IT Conference",
+        "date": "March 10-11",
+        "city": "Seattle, Washington",
+        "url": "https://www.casitconf.org/casitconf17/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/srecon.json" }
+        },
+        "name": "SREcon",
+        "date": "March 13-14",
+        "city": "San Francisco, California",
+        "url": "https://www.usenix.org/conference/srecon17americas"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/strata-san-jose.json" }
+        },
+        "name": "Strata + Hadoop World",
+        "date": "March 13-16",
+        "city": "San Jose, California",
+        "url": "http://conferences.oreilly.com/strata"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vslive-vegas.json" }
+        },
+        "name": "Visual Studio Live!",
+        "date": "March 13-17",
+        "city": "Las Vegas, Nevada",
+        "url": "https://vslive.com/Home.aspx"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/stpcon.json" }
+        },
+        "name": "Software Test Professionals",
+        "date": "March 14-17",
+        "city": "San Diego, California",
+        "url": "http://www.stpcon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/smartiotlondon.json" }
+        },
+        "name": "Smart IoT London",
+        "date": "March 15-16",
+        "city": "London, England",
+        "url": "http://www.smartiotlondon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cloudexpoeurope.json" }
+        },
+        "name": "Cloud Expo Europe",
+        "date": "March 15-16",
+        "city": "London, England",
+        "url": "http://www.cloudexpoeurope.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cloudsecurityexpo.json" }
+        },
+        "name": "Cloud Security Expo",
+        "date": "March 15-16",
+        "city": "London, England",
+        "url": "http://www.cloudsecurityexpo.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/datacentreworld.json" }
+        },
+        "name": "Data Centre World",
+        "date": "March 15-16",
+        "city": "London, England",
+        "url": "http://www.datacentreworld.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-beijing.json" }
+        },
+        "name": "DevOpsDays Beijing",
+        "date": "March 17-18",
+        "city": "Beijing, China",
+        "url": "https://www.devopsdays.org/events/2017-beijing/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/ibm-interconnect.json" }
+        },
+        "name": "IBM Interconnect",
+        "date": "March 19-23",
+        "city": "Las Vegas, Nevada",
+        "url": "http://www.ibm.com/cloud-computing/us/en/interconnect/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/linux-storage-filesystem-and-mm-summit.json" }
+        },
+        "name": "Linux Storage Filesystem and MM Summit",
+        "date": "March 20-21",
+        "city": "Cambridge, MA",
+        "url": "http://events.linuxfoundation.org/events/linux-storage-filesystem-and-mm-summit"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/oreilly-design.json" }
+        },
+        "name": "O'Reilly Design",
+        "date": "March 20-22",
+        "city": "San Francisco, California",
+        "url": "http://conferences.oreilly.com/design/ux-interaction-iot-us"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/pipeline.json" }
+        },
+        "name": "Pipeline",
+        "date": "March 21",
+        "city": "London, England",
+        "url": "http://web.pipelineconf.info/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vault.json" }
+        },
+        "name": "Vault",
+        "date": "March 22-23",
+        "city": "Cambridge, MA",
+        "url": "http://events.linuxfoundation.org/events/vault"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devexperience.json" }
+        },
+        "name": "DevExperience",
+        "date": "March 23-24",
+        "city": "Lasi, Romania",
+        "url": "http://devexperience.ro/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/nsdi.json" }
+        },
+        "name": "NSDI",
+        "date": "March 27-29",
+        "city": "Boston, Massachusetts",
+        "url": "https://www.usenix.org/conference/nsdi17"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/blackhat-asia.json" }
+        },
+        "name": "Black Hat Asia",
+        "date": "March 28-31",
+        "city": "Singapore",
+        "url": "https://www.blackhat.com/asia-17/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/kubecon.json" }
+        },
+        "name": "CloudNativeCon + KubeCon",
+        "date": "March 29-30",
+        "city": "Berlin, Germany",
+        "url": "http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-vancouver.json" }
+        },
+        "name": "DevOpsDays Vancouver",
+        "date": "March 31 - April 1",
+        "city": "Vancouver, Canada",
+        "url": "https://www.devopsdays.org/events/2017-vancouver/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/icsq.json" }
+        },
+        "name": "International Conference on Software Quality",
+        "date": "TBD",
+        "city": "Long Beach, California",
+        "url": "http://asq-icsq.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/software-architecture.json" }
+        },
+        "name": "O'Reilly Software Architecture",
+        "date": "April 3-5",
+        "city": "New York, New York",
+        "url": "http://conferences.oreilly.com/software-architecture/sa-ny"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/opennetsummit.json" }
+        },
+        "name": "Open Networking Summit",
+        "date": "April 3-6",
+        "city": "Santa Clara, California",
+        "url": "http://www.opennetsummit.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/jax-devops.json" }
+        },
+        "name": "Jax DevOps",
+        "date": "April 3-6",
+        "city": "London, England",
+        "url": "https://devops.jaxlondon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/hostingcon-global.json" }
+        },
+        "name": "HostingCon Global",
+        "date": "April 3-6",
+        "city": "Los Angeles, California",
+        "url": "http://global.hostingcon.com/hcg17/Public/Enter.aspx"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/djangocon-europe.json" }
+        },
+        "name": "Djangocon Europe",
+        "date": "April 3-7",
+        "city": "Budapest, Hungary",
+        "url": "https://2017.djangocon.eu/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/qaiquest.json" }
+        },
+        "name": "QAI Quest 2016",
+        "date": "April 3-7",
+        "city": "Chicago, Illinois",
+        "url": "http://qaiquest.org/2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/bulgariawebsummit.json" }
+        },
+        "name": "Bulgaria Web Summit",
+        "date": "April 7-8",
+        "city": "Sofia, Bulgaria",
+        "url": "http://bulgariawebsummit.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/sans.json" }
+        },
+        "name": "SANS 2016",
+        "date": "April 7-14",
+        "city": "Orlando, Florida",
+        "url": "https://www.sans.org/event/sans-2017"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/dockercon.json" }
+        },
+        "name": "Dockercon",
+        "date": "April 17-20",
+        "city": "Austin, Texas",
+        "url": "http://2017.dockercon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/dotscale.json" }
+        },
+        "name": "Dotscale",
+        "date": "April 24",
+        "city": "Paris, France",
+        "url": "http://www.dotscale.io/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/qcon-sp.json" }
+        },
+        "name": "QCon",
+        "date": "April 24-26",
+        "city": "Sao Paulo, Brazil",
+        "url": "http://qconsp.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/percona-live.json" }
+        },
+        "name": "Percona Live Data Performance Conference",
+        "date": "April 24-27",
+        "city": "Santa Clara, California",
+        "url": "https://www.percona.com/live/17/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/drupalcon.json" }
+        },
+        "name": "DrupalCon",
+        "date": "April 24-28",
+        "city": "Baltimore, Maryland",
+        "url": "https://events.drupal.org/baltimore2017"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/railsconf.json" }
+        },
+        "name": "RailsConf",
+        "date": "April 25-27",
+        "city": "Phoenix, Arizona",
+        "url": "http://www.railsconf.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-seattle.json" }
+        },
+        "name": "DevOpsDays Seattle",
+        "date": "April 26-27",
+        "city": "Seattle, Washington",
+        "url": "https://www.devopsdays.org/events/2017-seattle/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/iot-devcon.json" }
+        },
+        "name": "IoT Developers Conference",
+        "date": "April 26-27",
+        "city": "Santa Clara, California",
+        "url": "http://www.iot-devcon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/saturn.json" }
+        },
+        "name": "SATURN",
+        "date": "May 1-4",
+        "city": "Denver, Colorado",
+        "url": "http://www.sei.cmu.edu/saturn/2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/goto-chicago.json" }
+        },
+        "name": "GoToChicago",
+        "date": "May 1-4",
+        "city": "Chicago, Illinois",
+        "url": "http://gotochgo.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/redhat-summit.json" }
+        },
+        "name": "Red Hat Summit",
+        "date": "May 2-4",
+        "city": "Boston, Massachusetts",
+        "url": "https://www.redhat.com/en/summit/2017"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-zurich.json" }
+        },
+        "name": "DevOpsDays Zurich",
+        "date": "May 3-4",
+        "city": "Zurich, Switzerland",
+        "url": "https://www.devopsdays.org/events/2017-zurich/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-austin.json" }
+        },
+        "name": "DevOpsDays Austin",
+        "date": "May 4-5",
+        "city": "Austin, Texas",
+        "url": "https://www.devopsdays.org/events/2017-austin/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/linuxfest-northwest.json" }
+        },
+        "name": "LinuxFest Northwest",
+        "date": "May 6-7",
+        "city": "Bellingham, Washington",
+        "url": "https://www.linuxfestnorthwest.org/2017"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/stareast.json" }
+        },
+        "name": "STAREAST",
+        "date": "May 7-12",
+        "city": "Orlando, Florida",
+        "url": "https://stareast.techwell.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/knowledge.json" }
+        },
+        "name": "knowledge16",
+        "date": "May 7-12",
+        "city": "Orlando, Florida",
+        "url": "https://community.servicenow.com/community/knowledge-user-conference/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/gartner.json" }
+        },
+        "name": "Gartner IT Operations Strategies & Solutions Summit",
+        "date": "May 8-10",
+        "city": "National Harbor, Maryland",
+        "url": "http://www.gartner.com/events/na/infrastructure-operations-management"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/oscon.json" }
+        },
+        "name": "OSCON",
+        "date": "May 8-11",
+        "city": "Austin, Texas",
+        "url": "http://conferences.oreilly.com/oscon/open-source-us"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/dellemcworld.json" }
+        },
+        "name": "Dell World",
+        "date": "May 8-11",
+        "city": "Las Vegas, Nevada",
+        "url": "http://www.dellemcworld.com/index.htm"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/hdi.json" }
+        },
+        "name": "HDI",
+        "date": "May 9-12",
+        "city": "Washington, D.C.",
+        "url": "http://www.hdiconference.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/microsoft-build.json" }
+        },
+        "name": "Microsoft Build",
+        "date": "May 10-12",
+        "city": "Seattle, Washington",
+        "url": "http://build.microsoft.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vslive-austin.json" }
+        },
+        "name": "Visual Studio Live!",
+        "date": "May 15-18",
+        "city": "Austin, Texas",
+        "url": "https://vslive.com/Home.aspx"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/interop.json" }
+        },
+        "name": "Interop",
+        "date": "May 15-19",
+        "city": "Las Vegas, Nevada",
+        "url": "http://www.interop.com/lasvegas/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-salt-lake-city.json" }
+        },
+        "name": "DevOpsDays Salt Lake City",
+        "date": "May 16-17",
+        "city": "Salt Lake City, Utah",
+        "url": "https://www.devopsdays.org/events/2017-salt-lake-city/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/continuouslifecycle.json" }
+        },
+        "name": "Continuous Life Cycle",
+        "date": "May 17-19",
+        "city": "London, England",
+        "url": "http://continuouslifecycle.london/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/pycon.json" }
+        },
+        "name": "PyCon",
+        "date": "May 17-25",
+        "city": "Portland, Oregon",
+        "url": "https://us.pycon.org/2016/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/ancs.json" }
+        },
+        "name": "ANCS",
+        "date": "May 18-19",
+        "city": "Beijing, China",
+        "url": "http://www.ancsconf.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/nolacon.json" }
+        },
+        "name": "NolaCon",
+        "date": "May 19-21",
+        "city": "New Orleans, Louisiana",
+        "url": "https://nolacon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/anglebrackets.json" }
+        },
+        "name": "AngleBrackets",
+        "date": "May 21-24",
+        "city": "Walt Disney World, Florida",
+        "url": "https://anglebrackets.org/#!/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/monitorama.json" }
+        },
+        "name": "Monitorama",
+        "date": "May 22-24",
+        "city": "Portland, Oregon",
+        "url": "http://monitorama.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/container-camp.json" }
+        },
+        "name": "Container Camp",
+        "date": "May 22-24",
+        "city": "Sydney, Australia",
+        "url": "https://container.camp/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/chefconf.json" }
+        },
+        "name": "Chef",
+        "date": "May 22-24",
+        "city": "Austin, Texas",
+        "url": "https://chefconf.chef.io/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/strata-london.json" }
+        },
+        "name": "Strata + Hadoop World",
+        "date": "May 22-25",
+        "city": "London, England",
+        "url": "http://conferences.oreilly.com/strata"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/citrixsynergy.json" }
+        },
+        "name": "Citrix Synergy",
+        "date": "May 23-25",
+        "city": "Orlando, Florida",
+        "url": "https://www.citrixsynergy.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cloudexpoasiahk.json" }
+        },
+        "name": "Cloud Expo Asia",
+        "date": "May 24-25",
+        "city": "Hong Kong",
+        "url": "http://www.cloudexpoasiahk.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/gluecon.json" }
+        },
+        "name": "Gluecon",
+        "date": "May 24-25",
+        "city": "Broomfield, Colorado",
+        "url": "http://gluecon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/keep-austin-agile.json" }
+        },
+        "name": "Keep Austin Agile",
+        "date": "May 25",
+        "city": "Austin, Texas",
+        "url": "http://conference.a­gileaustin.org"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopswest.json" }
+        },
+        "name": "DevOps West",
+        "date": "June 4-9",
+        "city": "Las Vegas, Nevada",
+        "url": "http://devopswest.techwell.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/agile-devwest.json" }
+        },
+        "name": "Agile Dev West",
+        "date": "June 4-9",
+        "city": "Las Vegas, Nevada",
+        "url": "http://adcwest.techwell.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devops-enterprise.json" }
+        },
+        "name": "DevOps Enterprise Summit",
+        "date": "June 5-6",
+        "city": "London, England",
+        "url": "http://events.itrevolution.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/spark-summit.json" }
+        },
+        "name": "Spark Summit",
+        "date": "June 5-7",
+        "city": "San Francisco, California",
+        "url": "https://spark-summit.org/2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/infosecurityeurope.json" }
+        },
+        "name": "InfoSecurity Europe",
+        "date": "June 6-8",
+        "city": "London, England",
+        "url": "http://www.infosecurityeurope.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/interop.json" }
+        },
+        "name": "Interop",
+        "date": "June 7-9",
+        "city": "Tokyo, Japan",
+        "url": "http://www.interop.jp/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/rvasec.json" }
+        },
+        "name": "RVAsec",
+        "date": "June 8-9",
+        "city": "Richmond, Virginia",
+        "url": "http://rvasec.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/bsdcan.json" }
+        },
+        "name": "BSDCan",
+        "date": "June 9-10",
+        "city": "Ottawa, Canada",
+        "url": "https://www.bsdcan.org/2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/southeastlinuxfest.json" }
+        },
+        "name": "Southeast Linux Fest",
+        "date": "June 9-11",
+        "city": "Charlotte, North Carolina",
+        "url": "http://www.southeastlinuxfest.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/goto-amsterdam.json" }
+        },
+        "name": "GoTo Amsterdam",
+        "date": "June 12-14",
+        "city": "Amsterdam, the Netherlands",
+        "url": "http://gotoams.nl/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vslive-washington.json" }
+        },
+        "name": "Visual Studio Live!",
+        "date": "June 12-15",
+        "city": "Washington, D.C.",
+        "url": "https://vslive.com/Home.aspx"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cloudfoundry-california.json" }
+        },
+        "name": "Cloud Foundry Summit (California)",
+        "date": "June 13-15",
+        "city": "Santa Clara, California",
+        "url": "https://www.cloudfoundry.org/community/summits/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/convergese.json" }
+        },
+        "name": "Converge SE",
+        "date": "June 14-16",
+        "city": "Columbia, South Carolina",
+        "url": "http://convergese.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cloudidentitysummit.json" }
+        },
+        "name": "Cloud Identity Summit",
+        "date": "June 19-22",
+        "city": "Chicago, Illinois",
+        "url": "http://www.cloudidentitysummit.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/velocity-california.json" }
+        },
+        "name": "Velocity",
+        "date": "June 19-22",
+        "city": "San Jose, California",
+        "url": "http://conferences.oreilly.com/velocity"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/resnetstc.json" }
+        },
+        "name": "Student Technology Conference",
+        "date": "June 19-23",
+        "city": "Western Carolina University",
+        "url": "http://resnetstc.org/2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/fluent.json" }
+        },
+        "name": "Fluent",
+        "date": "June 20-22",
+        "city": "San Francisco, California",
+        "url": "http://conferences.oreilly.com/fluent/fl-ca"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/sansfire.json" }
+        },
+        "name": "SANSFIRE",
+        "date": "June 22-29",
+        "city": "Washington, D.C.",
+        "url": "https://www.sans.org/event/sansfire-2017"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/ciscolive.json" }
+        },
+        "name": "Cisco Live",
+        "date": "June 25-29",
+        "city": "Las Vegas, Nevada",
+        "url": "http://www.ciscolive.com/us/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/qcon-ny.json" }
+        },
+        "name": "QCon NY",
+        "date": "June 26-28",
+        "city": "New York City, NY",
+        "url": "https://qconnewyork.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/oreilly-artificial-intelligence.json" }
+        },
+        "name": "O'Reilly Artificial Intelligence",
+        "date": "June 27-29",
+        "city": "New York City, NY",
+        "url": "http://conferences.oreilly.com/artificial-intelligence/ai-ny"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/next.json" }
+        },
+        "name": ".next",
+        "date": "June 28-30",
+        "city": "Washington, D.C.",
+        "url": "https://www.nutanix.com/next/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-amsterdam.json" }
+        },
+        "name": "DevOpsDays Amsterdam",
+        "date": "June 28-30",
+        "city": "Amsterdam, the Netherlands",
+        "url": "https://www.devopsdays.org/events/2017-amsterdam/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/soups.json" }
+        },
+        "name": "SOUPS",
+        "date": "July 12-14",
+        "city": "Santa Clara, California",
+        "url": "https://www.usenix.org/conference/soups2016"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/blackhat-usa.json" }
+        },
+        "name": "Black Hat USA",
+        "date": "July 22-27",
+        "city": "Las Vegas, Nevada",
+        "url": "https://www.blackhat.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-minneaopolis.json" }
+        },
+        "name": "DevOpsDays Minneapolis",
+        "date": "July 25-26",
+        "city": "Minneapolis, Minnesota",
+        "url": "https://www.devopsdays.org/events/2017-minneapolis/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/defcon.json" }
+        },
+        "name": "DEF CON",
+        "date": "July 27-30",
+        "city": "Las Vegas, Nevada",
+        "url": "https://www.defcon.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/europython.json" }
+        },
+        "name": "EuroPython",
+        "date": "TBD",
+        "city": "Rimini, Italy",
+        "url": "http://europython.eu/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/agile.json" }
+        },
+        "name": "Agile",
+        "date": "August 7-11",
+        "city": "Washington, D.C.",
+        "url": "https://www.agilealliance.org/agile2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vslive-redmond.json" }
+        },
+        "name": "Visual Studio Live!",
+        "date": "August 14-18",
+        "city": "Redmond, Washington",
+        "url": "https://vslive.com/Home.aspx"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cast.json" }
+        },
+        "name": "CAST",
+        "date": "August 16-18",
+        "city": "Nashville, Tennessee",
+        "url": "https://www.associationforsoftwaretesting.org/conference/cast-2017/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vmworld-usa.json" }
+        },
+        "name": "VMWorld",
+        "date": "August 27-31",
+        "city": "Las Vegas, Nevada",
+        "url": "https://www.vmworld.com/en/us/index.html?"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cloudconnect.json" }
+        },
+        "name": "Cloud Connect China",
+        "date": "September 5-7",
+        "city": "Shanghai, China",
+        "url": "http://www.cloudconnectevent.cn/en/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vmworld-europe.json" }
+        },
+        "name": "VMWorld",
+        "date": "September 11-14",
+        "city": "Barcelona, Spain",
+        "url": "https://www.vmworld.com/en/europe/index.html?"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vslive-chicago.json" }
+        },
+        "name": "Visual Studio Live!",
+        "date": "September 18-21",
+        "city": "Chicago, Illinois",
+        "url": "https://vslive.com/Home.aspx"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/strata-ny.json" }
+        },
+        "name": "Strata + Hadoop World",
+        "date": "September 25-28",
+        "city": "New York, NY",
+        "url": "http://conferences.oreilly.com/strata"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/dotconf.json" }
+        },
+        "name": ".conf 2017",
+        "date": "September 25-28",
+        "city": "Washington, D.C.",
+        "url": "http://conf.splunk.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/microsoft-ignite.json" }
+        },
+        "name": "Microsoft Ignite",
+        "date": "September 25-29",
+        "city": "Orlando, Florida",
+        "url": "http://ignite.microsoft.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-detroit.json" }
+        },
+        "name": "DevOpsDays Detroit",
+        "date": "September 27-28",
+        "city": "Detroit, Michigan",
+        "url": "https://www.devopsdays.org/events/2017-detroit/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/strangeloop.json" }
+        },
+        "name": "The Strange Loop",
+        "date": "September 28-30",
+        "city": "St. Louis, Missouri",
+        "url": "http://www.thestrangeloop.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/eurobsdcon.json" }
+        },
+        "name": "EuroBSDCon",
+        "date": "TBD",
+        "city": "Paris, France",
+        "url": "https://2017.eurobsdcon.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/velocity-ny.json" }
+        },
+        "name": "Velocity",
+        "date": "October 1-4",
+        "city": "New York City, NY",
+        "url": "http://conferences.oreilly.com/velocity"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/goto-copenhagen.json" }
+        },
+        "name": "GoTo Copenhagen",
+        "date": "October 1-5",
+        "city": "Copenhagen, Denmark",
+        "url": "http://gotocph.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/netapp-insight.json" }
+        },
+        "name": "NetApp Insight",
+        "date": "October 2-5",
+        "city": "Las Vegas, Nevada",
+        "url": "http://www.netapp-insight.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/spiceworld.json" }
+        },
+        "name": "Spiceworld",
+        "date": "October 9-11",
+        "city": "Austin, Texas",
+        "url": "http://www.spiceworks.com/spiceworld/austin/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cloudexpoasia.json" }
+        },
+        "name": "Cloud Expo Asia",
+        "date": "October 11-12",
+        "city": "Singapore",
+        "url": "http://www.cloudexpoasia.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/datacentreworldasia.json" }
+        },
+        "name": "Data Centre World Asia",
+        "date": "October 11-12",
+        "city": "Singapore",
+        "url": "http://www.datacentreworldasia.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vslive-anaheim.json" }
+        },
+        "name": "Visual Studio Live!",
+        "date": "October 16-19",
+        "city": "Anaheim, California",
+        "url": "https://vslive.com/Home.aspx"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/velocity-london.json" }
+        },
+        "name": "Velocity",
+        "date": "October 18-20",
+        "city": "London, England",
+        "url": "http://conferences.oreilly.com/velocity"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devconnections.json" }
+        },
+        "name": "IT / Dev Connections",
+        "date": "October 23-26",
+        "city": "San Francisco, California",
+        "url": "http://www.devconnections.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/oreilly-security.json" }
+        },
+        "name": "O'Reilly Security",
+        "date": "October 29 - November 1",
+        "city": "New York City, NY"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/lisa.json" }
+        },
+        "name": "LISA",
+        "date": "October 29 - November 3",
+        "city": "San Francisco, California",
+        "url": "https://www.usenix.org/conference/lisa17"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/pass.json" }
+        },
+        "name": "PASS Summit",
+        "date": "October 31 - November 3",
+        "city": "Seattle, Washington",
+        "url": "http://www.sqlpass.org/Events/PASSSummit.aspx"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/goto-london.json" }
+        },
+        "name": "GoTo London",
+        "date": "TBD",
+        "city": "London, England",
+        "url": "http://gotoldn.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/next-nice.json" }
+        },
+        "name": ".next",
+        "date": "November 7-9",
+        "city": "Nice, France",
+        "url": "https://www.nutanix.com/next/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devops-enterprise-california.json" }
+        },
+        "name": "DevOps Enterprise Summit",
+        "date": "November 13-15",
+        "city": "San Francisco, California",
+        "url": "http://events.itrevolution.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/netapp-insight-berlin.json" }
+        },
+        "name": "NetApp Insight",
+        "date": "November 13-16",
+        "city": "Berlin, Germany",
+        "url": "http://www.netapp-insight.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/qcon-san-francisco.json" }
+        },
+        "name": "QCon San Francisco",
+        "date": "November 13-17",
+        "city": "San Francisco, California",
+        "url": "https://qconsf.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/vslive-orlando.json" }
+        },
+        "name": "Visual Studio Live! 360",
+        "date": "March 13-17",
+        "city": "Orlando, Florida",
+        "url": "https://vslive.com/Home.aspx"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cloudexpoeurope-france.json" }
+        },
+        "name": "Cloud Expo Europe",
+        "date": "November 15-16",
+        "city": "Paris, France",
+        "url": "http://www.cloudexpoeurope.fr/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/datacentreworld-france.json" }
+        },
+        "name": "Data Centre World",
+        "date": "November 15-16",
+        "city": "Paris, France",
+        "url": "http://www.datacentreworld.fr/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/goto-berlin.json" }
+        },
+        "name": "GoTo Berlin",
+        "date": "November 15-17",
+        "city": "Berlin, Germany",
+        "url": "http://gotober.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-reinvent.json" }
+        },
+        "name": "AWS re:Invent",
+        "date": "November 27 - December 1",
+        "city": "Las Vegas, Nevada",
+        "url": "https://reinvent.awsevents.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/cloudexpoeurope-germany.json" }
+        },
+        "name": "Cloud Expo Europe",
+        "date": "November 28-29",
+        "city": "Frankfurt, Germany",
+        "url": "http://www.cloudexpoeurope.de/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/datacentreworld-germany.json" }
+        },
+        "name": "Data Centre World",
+        "date": "November 28-29",
+        "city": "Frankfurt, Germany",
+        "url": "http://www.datacentreworld.de/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/goto-accelerate.json" }
+        },
+        "name": "GoTo Accelerate",
+        "date": "TBD",
+        "city": "London, England",
+        "url": "http://gotocon.com/accelerate-2016"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/strata-singapore.json" }
+        },
+        "name": "Strata + Hadoop World",
+        "date": "December 4-7",
+        "city": "Singapore",
+        "url": "http://conferences.oreilly.com/strata"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/kubecon-usa.json" }
+        },
+        "name": "CloudNativeCon + KubeCon",
+        "date": "December 6-7",
+        "city": "Austin, Texas",
+        "url": "http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-north-america"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devops-dockercamp.json" }
+        },
+        "name": "DevOps Docker Camp",
+        "date": "TBD",
+        "city": "Munich, Germany",
+        "url": "http://devops-training.de/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devops-connects.json" }
+        },
+        "name": "DevOps Connects",
+        "date": "TBD",
+        "city": "Various Locations Worldwide",
+        "url": "http://www.devopsconnect.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/asiabsdcon.json" }
+        },
+        "name": "AsiaBSDCon",
+        "date": "TBD",
+        "city": "Tokyo, Japan",
+        "url": "https://2016.asiabsdcon.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/ic3.json" }
+        },
+        "name": "IC3",
+        "date": "TBD",
+        "city": "San Jose, California",
+        "url": "http://icee3.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/step.json" }
+        },
+        "name": "STEP",
+        "date": "TBD",
+        "city": "Dubai",
+        "url": "https://stepconference.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/saltconf.json" }
+        },
+        "name": "SaltConf",
+        "date": "TBD",
+        "city": "Salt Lake City, Utah",
+        "url": "http://saltconf.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/craft-conf.json" }
+        },
+        "name": "Craft Conf",
+        "date": "TBD",
+        "city": "Budapest, Hungary",
+        "url": "craft-conf.com"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/passbaconference.json" }
+        },
+        "name": "Pass Business Analytics Conference",
+        "date": "TBD",
+        "city": "San Jose, California",
+        "url": "http://passbaconference.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/coreos-fest.json" }
+        },
+        "name": "CoreOS Fest",
+        "date": "TBD",
+        "city": "San Francisco, California and Berlin, Germany",
+        "url": "https://coreos.com/fest/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/baltic-devops.json" }
+        },
+        "name": "Baltic DevOps 2017",
+        "date": "TBD",
+        "city": "Tallinn, Estonia",
+        "url": "http://topconf.com/baltic-devOps-2016/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/spiceworld-london.json" }
+        },
+        "name": "Spiceworld",
+        "date": "TBD",
+        "city": "London, England",
+        "url": "http://www.spiceworks.com/spiceworld/london/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/hostingcon-china.json" }
+        },
+        "name": "HostingCon China",
+        "date": "TBD",
+        "city": "Shenzhen, China",
+        "url": "http://china.hostingcon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devops-summit-ny.json" }
+        },
+        "name": "DevOps Summit",
+        "date": "TBD",
+        "city": "New York City, NY",
+        "url": "http://devopssummit.sys-con.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/sharkfest.json" }
+        },
+        "name": "SharkFest",
+        "date": "TBD",
+        "city": "Mountain View, California",
+        "url": "https://sharkfest.wireshark.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/icac.json" }
+        },
+        "name": "ICAC",
+        "date": "TBD",
+        "city": "Würzburg, Germany",
+        "url": "http://icac2016.uni-wuerzburg.de/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/euroscipy.json" }
+        },
+        "name": "EuroSciPy",
+        "date": "TBD",
+        "city": "Cambridge, England",
+        "url": "https://www.euroscipy.org"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/scale.json" }
+        },
+        "name": "Scale",
+        "date": "TBD",
+        "city": "San Jose, California",
+        "url": "http://www.atscaleconference.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/puppetconf.json" }
+        },
+        "name": "Puppet Conf",
+        "date": "TBD",
+        "city": "San Diego, California",
+        "url": "https://puppet.com/puppetconf"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/hostingcon-europe.json" }
+        },
+        "name": "HostingCon Europe",
+        "date": "TBD",
+        "city": "Amsterdam, the Netherlands",
+        "url": "http://europe.hostingcon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/ibm-insight.json" }
+        },
+        "name": "IBM Insight",
+        "date": "TBD",
+        "city": "Las Vegas, Nevada",
+        "url": "http://www-01.ibm.com/software/events/insight/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devops-summit-california.json" }
+        },
+        "name": "DevOps Summit",
+        "date": "TBD",
+        "city": "Santa Clara, California",
+        "url": "http://devopssummit.sys-con.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/blackhat-europe.json" }
+        },
+        "name": "Black Hat Europe",
+        "date": "TBD",
+        "city": "Las Vegas, Nevada",
+        "url": "https://www.blackhat.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/fusion.json" }
+        },
+        "name": "Fusion",
+        "date": "TBD",
+        "city": "Las Vegas, Nevada",
+        "url": "http://www.servicemanagementfusion.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/googleio.json" }
+        },
+        "name": "Google I/O",
+        "date": "TBD",
+        "city": "San Francisco, California",
+        "url": "https://events.google.com/io2015/#"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsconference.json" }
+        },
+        "name": "DevOps Conference Germany",
+        "date": "TBD",
+        "city": "Munich, Germany",
+        "url": "http://devopsconference.de/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devcon-tlv.json" }
+        },
+        "name": "DevCon TLV",
+        "date": "TBD",
+        "city": "Tel Aviv, Israel",
+        "url": "https://devcontlvjune2015.events.co.il/home"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/iot-world-conference.json" }
+        },
+        "name": "IoT World Conference",
+        "date": "TBD",
+        "city": "London, England",
+        "url": "http://iotinternetofthingsconference.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/spark-summit-europe.json" }
+        },
+        "name": "Spark Summit Europe",
+        "date": "TBD",
+        "city": "Amsterdam, the Netherlands",
+        "url": "https://spark-summit.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/jenkins-world.json" }
+        },
+        "name": "Jenkins World and User Conferences",
+        "date": "TBD",
+        "city": "Various Locations Worldwide",
+        "url": "https://www.cloudbees.com/company/events/juc"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/surge.json" }
+        },
+        "name": "Surge",
+        "date": "TBD",
+        "city": "National Harbor, Maryland",
+        "url": "http://surge.omniti.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/defrag.json" }
+        },
+        "name": "Defrag",
+        "date": "TBD",
+        "city": "Broomfield, Colorado",
+        "url": "http://defragcon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/rubyconf.json" }
+        },
+        "name": "RubyConf",
+        "date": "TBD",
+        "city": "Cinncinati, Ohio",
+        "url": "http://rubyconf.org/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/iot-world-forum.json" }
+        },
+        "name": "IoT World Forum",
+        "date": "TBD",
+        "city": "London, England",
+        "url": "http://iotinternetofthingsconference.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/zendcon.json" }
+        },
+        "name": "ZendCon",
+        "date": "TBD",
+        "city": "Las Vegas, Nevada",
+        "url": "http://www.zendcon.com/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-chicago.json" }
+        },
+        "name": "DevOpsDays Chicago",
+        "date": "TBD",
+        "city": "Chicago, Illinois",
+        "url": "https://www.devopsdays.org/events/2017-chicago/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-ohio.json" }
+        },
+        "name": "DevOpsDays Ohio",
+        "date": "TBD",
+        "city": "TBD",
+        "url": "https://www.devopsdays.org/events/2017-ohio/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-paris.json" }
+        },
+        "name": "DevOpsDays Paris",
+        "date": "TBD",
+        "city": "Paris, France",
+        "url": "https://www.devopsdays.org/events/2017-paris/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-portland.json" }
+        },
+        "name": "DevOpsDays Portland",
+        "date": "TBD",
+        "city": "Portland, Oregon",
+        "url": "https://www.devopsdays.org/events/2017-portland/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-stockholm.json" }
+        },
+        "name": "DevOpsDays Stockholm",
+        "date": "TBD",
+        "city": "Stockholm, Sweden",
+        "url": "https://www.devopsdays.org/events/2017-stockholm/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-sao-paulo.json" }
+        },
+        "name": "DevOpsDays Sao Paulo",
+        "date": "TBD",
+        "city": "Sao Paulo, Brazil",
+        "url": "https://www.devopsdays.org/events/2017-sao-paulo/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/devopsdays-toronto.json" }
+        },
+        "name": "DevOpsDays Toronto",
+        "date": "TBD",
+        "city": "Toronto, Canada",
+        "url": "https://www.devopsdays.org/events/2017-toronto/welcome"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-chicago.json" }
+        },
+        "name": "AWS Summit Chicago",
+        "date": "TBD",
+        "city": "Chicago, Illinois",
+        "url": "https://aws.amazon.com/summits/chicago/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-santa-clara.json" }
+        },
+        "name": "AWS Summit Santa Clara",
+        "date": "TBD",
+        "city": "Santa Clara, California",
+        "url": "https://aws.amazon.com/summits/santa-clara/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-ny.json" }
+        },
+        "name": "AWS Summit New York",
+        "date": "TBD",
+        "city": "New York City, NY",
+        "url": "https://aws.amazon.com/summits/new-york/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-washington.json" }
+        },
+        "name": "AWS Summit Washington, D.C.",
+        "date": "TBD",
+        "city": "Washington, D.C.",
+        "url": "https://aws.amazon.com/summits/washington-dc/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-dallas.json" }
+        },
+        "name": "AWS Summit Dallas",
+        "date": "TBD",
+        "city": "Dallas, Texas",
+        "url": "https://aws.amazon.com/summits/enterprise-summit-dallas/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-atlanta.json" }
+        },
+        "name": "AWS Summit Atlanta",
+        "date": "TBD",
+        "city": "Atlanta, Georgia",
+        "url": "https://aws.amazon.com/summits/enterprise-summit-atlanta/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-boston.json" }
+        },
+        "name": "AWS Summit Boston",
+        "date": "TBD",
+        "city": "Boston, Massachusetts",
+        "url": "https://aws.amazon.com/summits/enterprise-summit-boston/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-toronto.json" }
+        },
+        "name": "AWS Summit Toronto",
+        "date": "TBD",
+        "city": "Toronto, Canada",
+        "url": "https://aws.amazon.com/summits/enterprise-summit-toronto/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-bogota.json" }
+        },
+        "name": "AWS Summit Bogota",
+        "date": "TBD",
+        "city": "Bogota, Colombia",
+        "url": "https://aws.amazon.com/es/summits/bogota/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-buenos-aires.json" }
+        },
+        "name": "AWS Summit Buenos Aires",
+        "date": "TBD",
+        "city": "Buenos Aires, Argentina",
+        "url": "https://aws.amazon.com/es/summits/buenos-aires/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-santiago.json" }
+        },
+        "name": "AWS Summit Santiago",
+        "date": "TBD",
+        "city": "Santiago, Chile",
+        "url": "https://aws.amazon.com/es/summits/santiago/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-mexico.json" }
+        },
+        "name": "AWS Summit Mexico City",
+        "date": "TBD",
+        "city": "Mexico City, Mexico",
+        "url": "https://aws.amazon.com/es/summits/mexico-city/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-sao-paulo.json" }
+        },
+        "name": "AWS Summit Sao Paulo",
+        "date": "TBD",
+        "city": "Sao Paulo, Brazil",
+        "url": "https://aws.amazon.com/pt/summits/sao-paulo/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-rio.json" }
+        },
+        "name": "AWS Summit Rio de Janeiro",
+        "date": "TBD",
+        "city": "Rio de Janeiro, Brazil",
+        "url": "https://aws.amazon.com/pt/summits/rio-de-janeiro/"
+      },
+      {
+        "_links": {
+            "self": { "href": "/conferences/aws-lima.json" }
+        },
+        "name": "AWS Summit Lima",
+        "date": "TBD",
+        "city": "Lima, Peru",
+        "url": "https://aws.amazon.com/es/summits/lima/"
+      }
+    ]
+  }
+}

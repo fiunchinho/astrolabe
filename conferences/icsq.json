@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/icsq"
+        }
+    },
+    "name": "International Conference on Software Quality",
+    "date": "TBD",
+    "city": "Long Beach, California",
+    "url": "http://asq-icsq.org/"
+}

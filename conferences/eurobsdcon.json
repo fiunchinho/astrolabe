@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/eurobsdcon"
+        }
+    },
+    "name": "EuroBSDCon",
+    "date": "TBD",
+    "city": "Paris, France",
+    "url": "https://2017.eurobsdcon.org/"
+}

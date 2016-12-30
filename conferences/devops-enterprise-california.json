@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devops-enterprise-california"
+        }
+    },
+    "name": "DevOps Enterprise Summit",
+    "date": "November 13-15",
+    "city": "San Francisco, California",
+    "url": "http://events.itrevolution.com/"
+}

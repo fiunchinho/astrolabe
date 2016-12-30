@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/qcon-sp"
+        }
+    },
+    "name": "QCon",
+    "date": "April 24-26",
+    "city": "Sao Paulo, Brazil",
+    "url": "http://qconsp.com/"
+}

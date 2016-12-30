@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/dockercon"
+        }
+    },
+    "name": "Dockercon",
+    "date": "April 17-20",
+    "city": "Austin, Texas",
+    "url": "http://2017.dockercon.com/"
+}

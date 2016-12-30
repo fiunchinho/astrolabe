@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/incontrodevops"
+        }
+    },
+    "name": "Incontro DevOps Italia",
+    "date": "March 10",
+    "city": "Bologna, Italy",
+    "url": "http://www.incontrodevops.it/events/idi2017/"
+}

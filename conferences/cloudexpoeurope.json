@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/cloudexpoeurope"
+        }
+    },
+    "name": "Cloud Expo Europe",
+    "date": "March 15-16",
+    "city": "London, England",
+    "url": "http://www.cloudexpoeurope.com/"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/percona-live"
+        }
+    },
+    "name": "Percona Live Data Performance Conference",
+    "date": "April 24-27",
+    "city": "Santa Clara, California",
+    "url": "https://www.percona.com/live/17/"
+}

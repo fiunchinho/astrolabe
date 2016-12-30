@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/goto-chicago"
+        }
+    },
+    "name": "GoToChicago",
+    "date": "May 1-4",
+    "city": "Chicago, Illinois",
+    "url": "http://gotochgo.com/"
+}

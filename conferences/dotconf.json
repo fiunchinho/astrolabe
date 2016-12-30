@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/dotconf"
+        }
+    },
+    "name": ".conf 2017",
+    "date": "September 25-28",
+    "city": "Washington, D.C.",
+    "url": "http://conf.splunk.com/"
+}

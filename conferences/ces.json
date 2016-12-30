@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/ces"
+        }
+    },
+    "name": "CES",
+    "date": "January 5-8",
+    "city": "Las Vegas, Nevada",
+    "url": "http://www.cesweb.org/"
+}

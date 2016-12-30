@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/fusion"
+        }
+    },
+    "name": "Fusion",
+    "date": "TBD",
+    "city": "Las Vegas, Nevada",
+    "url": "http://www.servicemanagementfusion.com/"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/blackhat-usa"
+        }
+    },
+    "name": "Black Hat USA",
+    "date": "July 22-27",
+    "city": "Las Vegas, Nevada",
+    "url": "https://www.blackhat.com/"
+}

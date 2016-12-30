@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/aws-santiago"
+        }
+    },
+    "name": "AWS Summit Santiago",
+    "date": "TBD",
+    "city": "Santiago, Chile",
+    "url": "https://aws.amazon.com/es/summits/santiago/"
+}

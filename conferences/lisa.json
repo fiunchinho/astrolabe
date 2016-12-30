@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/lisa"
+        }
+    },
+    "name": "LISA",
+    "date": "October 29 - November 3",
+    "city": "San Francisco, California",
+    "url": "https://www.usenix.org/conference/lisa17"
+}

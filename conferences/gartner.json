@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/gartner"
+        }
+    },
+    "name": "Gartner IT Operations Strategies & Solutions Summit",
+    "date": "May 8-10",
+    "city": "National Harbor, Maryland",
+    "url": "http://www.gartner.com/events/na/infrastructure-operations-management"
+}

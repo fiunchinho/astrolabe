@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/goto-london"
+        }
+    },
+    "name": "GoTo London",
+    "date": "TBD",
+    "city": "London, England",
+    "url": "http://gotoldn.com/"
+}

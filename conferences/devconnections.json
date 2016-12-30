@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devconnections"
+        }
+    },
+    "name": "IT / Dev Connections",
+    "date": "October 23-26",
+    "city": "San Francisco, California",
+    "url": "http://www.devconnections.com/"
+}

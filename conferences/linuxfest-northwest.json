@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/linuxfest-northwest"
+        }
+    },
+    "name": "LinuxFest Northwest",
+    "date": "May 6-7",
+    "city": "Bellingham, Washington",
+    "url": "https://www.linuxfestnorthwest.org/2017"
+}

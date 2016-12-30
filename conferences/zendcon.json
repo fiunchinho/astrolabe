@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/zendcon"
+        }
+    },
+    "name": "ZendCon",
+    "date": "TBD",
+    "city": "Las Vegas, Nevada",
+    "url": "http://www.zendcon.com/"
+}

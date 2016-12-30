@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/nolacon"
+        }
+    },
+    "name": "NolaCon",
+    "date": "May 19-21",
+    "city": "New Orleans, Louisiana",
+    "url": "https://nolacon.com/"
+}

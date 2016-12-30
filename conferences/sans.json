@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/sans"
+        }
+    },
+    "name": "SANS 2016",
+    "date": "April 7-14",
+    "city": "Orlando, Florida",
+    "url": "https://www.sans.org/event/sans-2017"
+}

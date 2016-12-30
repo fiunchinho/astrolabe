@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/knowledge"
+        }
+    },
+    "name": "knowledge16",
+    "date": "May 7-12",
+    "city": "Orlando, Florida",
+    "url": "https://community.servicenow.com/community/knowledge-user-conference/"
+}

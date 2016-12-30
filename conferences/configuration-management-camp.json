@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/configuration-management-camp"
+        }
+    },
+    "name": "Configuration Management Camp",
+    "date": "February 6-7",
+    "city": "Ghent, Belgium",
+    "url": "http://cfgmgmtcamp.eu/"
+}

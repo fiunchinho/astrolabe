@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-charlotte"
+        }
+    },
+    "name": "DevOpsDays Charlotte",
+    "date": "February 6-7",
+    "city": "Charlotte, North Carolina",
+    "url": "https://www.devopsdays.org/events/2017-charlotte/welcome"
+}

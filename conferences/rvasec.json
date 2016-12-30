@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/rvasec"
+        }
+    },
+    "name": "RVAsec",
+    "date": "June 8-9",
+    "city": "Richmond, Virginia",
+    "url": "http://rvasec.com/"
+}

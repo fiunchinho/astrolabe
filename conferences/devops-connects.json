@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devops-connects"
+        }
+    },
+    "name": "DevOps Connects",
+    "date": "TBD",
+    "city": "Various Locations Worldwide",
+    "url": "http://www.devopsconnect.com/"
+}

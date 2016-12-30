@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/velocity-california"
+        }
+    },
+    "name": "Velocity",
+    "date": "June 19-22",
+    "city": "San Jose, California",
+    "url": "http://conferences.oreilly.com/velocity"
+}

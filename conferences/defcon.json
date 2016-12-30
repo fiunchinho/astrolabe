@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/defcon"
+        }
+    },
+    "name": "DEF CON",
+    "date": "July 27-30",
+    "city": "Las Vegas, Nevada",
+    "url": "https://www.defcon.org/"
+}

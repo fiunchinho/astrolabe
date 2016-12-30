@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/hostingcon-global"
+        }
+    },
+    "name": "HostingCon Global",
+    "date": "April 3-6",
+    "city": "Los Angeles, California",
+    "url": "http://global.hostingcon.com/hcg17/Public/Enter.aspx"
+}

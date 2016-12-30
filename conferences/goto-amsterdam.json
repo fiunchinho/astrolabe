@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/goto-amsterdam"
+        }
+    },
+    "name": "GoTo Amsterdam",
+    "date": "June 12-14",
+    "city": "Amsterdam, the Netherlands",
+    "url": "http://gotoams.nl/"
+}

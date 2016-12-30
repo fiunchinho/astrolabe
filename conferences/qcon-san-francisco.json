@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/qcon-san-francisco"
+        }
+    },
+    "name": "QCon San Francisco",
+    "date": "November 13-17",
+    "city": "San Francisco, California",
+    "url": "https://qconsf.com/"
+}

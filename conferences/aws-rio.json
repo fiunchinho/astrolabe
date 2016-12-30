@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/aws-rio"
+        }
+    },
+    "name": "AWS Summit Rio de Janeiro",
+    "date": "TBD",
+    "city": "Rio de Janeiro, Brazil",
+    "url": "https://aws.amazon.com/pt/summits/rio-de-janeiro/"
+}

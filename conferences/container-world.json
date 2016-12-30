@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/container-world"
+        }
+    },
+    "name": "Container World",
+    "date": "February 21-23",
+    "city": "Santa Clara, California",
+    "url": "http://containerevent.com/"
+}

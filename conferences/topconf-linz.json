@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/topconf-linz"
+        }
+    },
+    "name": "Topconf Linz",
+    "date": "February 22 - March 2",
+    "city": "Linz, Austria",
+    "url": "http://topconf.com/linz-2016/"
+}

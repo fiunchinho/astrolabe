@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-beijing"
+        }
+    },
+    "name": "DevOpsDays Beijing",
+    "date": "March 17-18",
+    "city": "Beijing, China",
+    "url": "https://www.devopsdays.org/events/2017-beijing/welcome"
+}

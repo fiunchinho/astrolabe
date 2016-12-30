@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/icac"
+        }
+    },
+    "name": "ICAC",
+    "date": "TBD",
+    "city": "Würzburg, Germany",
+    "url": "http://icac2016.uni-wuerzburg.de/"
+}

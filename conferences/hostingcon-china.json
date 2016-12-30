@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/hostingcon-china"
+        }
+    },
+    "name": "HostingCon China",
+    "date": "TBD",
+    "city": "Shenzhen, China",
+    "url": "http://china.hostingcon.com/"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/surge"
+        }
+    },
+    "name": "Surge",
+    "date": "TBD",
+    "city": "National Harbor, Maryland",
+    "url": "http://surge.omniti.com/"
+}

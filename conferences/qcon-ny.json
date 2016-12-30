@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/qcon-ny"
+        }
+    },
+    "name": "QCon NY",
+    "date": "June 26-28",
+    "city": "New York City, NY",
+    "url": "https://qconnewyork.com/"
+}

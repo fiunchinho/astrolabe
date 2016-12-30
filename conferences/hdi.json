@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/hdi"
+        }
+    },
+    "name": "HDI",
+    "date": "May 9-12",
+    "city": "Washington, D.C.",
+    "url": "http://www.hdiconference.com/"
+}

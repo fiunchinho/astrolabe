@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/aws-lima"
+        }
+    },
+    "name": "AWS Summit Lima",
+    "date": "TBD",
+    "city": "Lima, Peru",
+    "url": "https://aws.amazon.com/es/summits/lima/"
+}

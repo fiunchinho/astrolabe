@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/resnetstc"
+        }
+    },
+    "name": "Student Technology Conference",
+    "date": "June 19-23",
+    "city": "Western Carolina University",
+    "url": "http://resnetstc.org/2017/"
+}

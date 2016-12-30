@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/agile-devwest"
+        }
+    },
+    "name": "Agile Dev West",
+    "date": "June 4-9",
+    "city": "Las Vegas, Nevada",
+    "url": "http://adcwest.techwell.com/"
+}

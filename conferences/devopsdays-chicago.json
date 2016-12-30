@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-chicago"
+        }
+    },
+    "name": "DevOpsDays Chicago",
+    "date": "TBD",
+    "city": "Chicago, Illinois",
+    "url": "https://www.devopsdays.org/events/2017-chicago/welcome"
+}

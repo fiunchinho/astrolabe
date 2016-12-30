@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/strangeloop"
+        }
+    },
+    "name": "The Strange Loop",
+    "date": "September 28-30",
+    "city": "St. Louis, Missouri",
+    "url": "http://www.thestrangeloop.com/"
+}

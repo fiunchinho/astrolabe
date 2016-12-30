@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/ancs"
+        }
+    },
+    "name": "ANCS",
+    "date": "May 18-19",
+    "city": "Beijing, China",
+    "url": "http://www.ancsconf.org/"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/jax-devops"
+        }
+    },
+    "name": "Jax DevOps",
+    "date": "April 3-6",
+    "city": "London, England",
+    "url": "https://devops.jaxlondon.com/"
+}

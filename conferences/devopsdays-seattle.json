@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-seattle"
+        }
+    },
+    "name": "DevOpsDays Seattle",
+    "date": "April 26-27",
+    "city": "Seattle, Washington",
+    "url": "https://www.devopsdays.org/events/2017-seattle/welcome"
+}

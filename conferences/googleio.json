@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/googleio"
+        }
+    },
+    "name": "Google I/O",
+    "date": "TBD",
+    "city": "San Francisco, California",
+    "url": "https://events.google.com/io2015/#"
+}

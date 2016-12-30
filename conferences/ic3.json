@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/ic3"
+        }
+    },
+    "name": "IC3",
+    "date": "TBD",
+    "city": "San Jose, California",
+    "url": "http://icee3.com/"
+}

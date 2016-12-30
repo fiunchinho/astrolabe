@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/qaiquest"
+        }
+    },
+    "name": "QAI Quest 2016",
+    "date": "April 3-7",
+    "city": "Chicago, Illinois",
+    "url": "http://qaiquest.org/2017/"
+}

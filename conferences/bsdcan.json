@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/bsdcan"
+        }
+    },
+    "name": "BSDCan",
+    "date": "June 9-10",
+    "city": "Ottawa, Canada",
+    "url": "https://www.bsdcan.org/2017/"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devops-summit-ny"
+        }
+    },
+    "name": "DevOps Summit",
+    "date": "TBD",
+    "city": "New York City, NY",
+    "url": "http://devopssummit.sys-con.com/"
+}

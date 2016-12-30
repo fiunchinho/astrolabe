@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/vmworld-usa"
+        }
+    },
+    "name": "VMWorld",
+    "date": "August 27-31",
+    "city": "Las Vegas, Nevada",
+    "url": "https://www.vmworld.com/en/us/index.html?"
+}

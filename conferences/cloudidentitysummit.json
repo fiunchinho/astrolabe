@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/cloudidentitysummit"
+        }
+    },
+    "name": "Cloud Identity Summit",
+    "date": "June 19-22",
+    "city": "Chicago, Illinois",
+    "url": "http://www.cloudidentitysummit.com/"
+}

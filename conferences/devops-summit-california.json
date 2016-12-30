@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devops-summit-california"
+        }
+    },
+    "name": "DevOps Summit",
+    "date": "TBD",
+    "city": "Santa Clara, California",
+    "url": "http://devopssummit.sys-con.com/"
+}

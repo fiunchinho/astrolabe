@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/cloudexpoasia"
+        }
+    },
+    "name": "Cloud Expo Asia",
+    "date": "October 11-12",
+    "city": "Singapore",
+    "url": "http://www.cloudexpoasia.com/"
+}

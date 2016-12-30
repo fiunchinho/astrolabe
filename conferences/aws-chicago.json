@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/aws-chicago"
+        }
+    },
+    "name": "AWS Summit Chicago",
+    "date": "TBD",
+    "city": "Chicago, Illinois",
+    "url": "https://aws.amazon.com/summits/chicago/"
+}

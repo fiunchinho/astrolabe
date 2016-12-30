@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/aws-washington"
+        }
+    },
+    "name": "AWS Summit Washington, D.C.",
+    "date": "TBD",
+    "city": "Washington, D.C.",
+    "url": "https://aws.amazon.com/summits/washington-dc/"
+}

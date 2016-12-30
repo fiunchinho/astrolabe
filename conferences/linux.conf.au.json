@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/linux.conf.au"
+        }
+    },
+    "name": "linux.conf.au",
+    "date": "January 16-20",
+    "city": "Geelong, Victoria, Australia",
+    "url": "https://linux.conf.au"
+}

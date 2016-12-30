@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/aws-bogota"
+        }
+    },
+    "name": "AWS Summit Bogota",
+    "date": "TBD",
+    "city": "Bogota, Colombia",
+    "url": "https://aws.amazon.com/es/summits/bogota/"
+}

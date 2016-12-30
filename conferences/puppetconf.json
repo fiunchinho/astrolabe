@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/puppetconf"
+        }
+    },
+    "name": "Puppet Conf",
+    "date": "TBD",
+    "city": "San Diego, California",
+    "url": "https://puppet.com/puppetconf"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/mobilewebdevconference"
+        }
+    },
+    "name": "Mobile+Web DevCon",
+    "date": "March 1-3",
+    "city": "San Francisco, California",
+    "url": "http://mobilewebdevconference.com/san-francisco-2017/"
+}

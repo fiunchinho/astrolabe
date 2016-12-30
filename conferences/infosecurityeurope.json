@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/infosecurityeurope"
+        }
+    },
+    "name": "InfoSecurity Europe",
+    "date": "June 6-8",
+    "city": "London, England",
+    "url": "http://www.infosecurityeurope.com/"
+}

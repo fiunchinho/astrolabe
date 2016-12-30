@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/asiabsdcon"
+        }
+    },
+    "name": "AsiaBSDCon",
+    "date": "TBD",
+    "city": "Tokyo, Japan",
+    "url": "https://2016.asiabsdcon.org/"
+}

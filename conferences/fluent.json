@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/fluent"
+        }
+    },
+    "name": "Fluent",
+    "date": "June 20-22",
+    "city": "San Francisco, California",
+    "url": "http://conferences.oreilly.com/fluent/fl-ca"
+}

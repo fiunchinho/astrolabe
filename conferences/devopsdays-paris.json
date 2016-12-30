@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-paris"
+        }
+    },
+    "name": "DevOpsDays Paris",
+    "date": "TBD",
+    "city": "Paris, France",
+    "url": "https://www.devopsdays.org/events/2017-paris/welcome"
+}

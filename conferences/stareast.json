@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/stareast"
+        }
+    },
+    "name": "STAREAST",
+    "date": "May 7-12",
+    "city": "Orlando, Florida",
+    "url": "https://stareast.techwell.com/"
+}

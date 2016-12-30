@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/pass"
+        }
+    },
+    "name": "PASS Summit",
+    "date": "October 31 - November 3",
+    "city": "Seattle, Washington",
+    "url": "http://www.sqlpass.org/Events/PASSSummit.aspx"
+}

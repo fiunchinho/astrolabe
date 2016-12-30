@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/convergese"
+        }
+    },
+    "name": "Converge SE",
+    "date": "June 14-16",
+    "city": "Columbia, South Carolina",
+    "url": "http://convergese.com/"
+}

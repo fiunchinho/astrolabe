@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-vancouver"
+        }
+    },
+    "name": "DevOpsDays Vancouver",
+    "date": "March 31 - April 1",
+    "city": "Vancouver, Canada",
+    "url": "https://www.devopsdays.org/events/2017-vancouver/welcome"
+}

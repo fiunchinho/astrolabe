@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/datacentreworld-germany"
+        }
+    },
+    "name": "Data Centre World",
+    "date": "November 28-29",
+    "city": "Frankfurt, Germany",
+    "url": "http://www.datacentreworld.de/"
+}

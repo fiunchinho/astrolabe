@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/stpcon"
+        }
+    },
+    "name": "Software Test Professionals",
+    "date": "March 14-17",
+    "city": "San Diego, California",
+    "url": "http://www.stpcon.com/"
+}

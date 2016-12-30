@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-portland"
+        }
+    },
+    "name": "DevOpsDays Portland",
+    "date": "TBD",
+    "city": "Portland, Oregon",
+    "url": "https://www.devopsdays.org/events/2017-portland/welcome"
+}

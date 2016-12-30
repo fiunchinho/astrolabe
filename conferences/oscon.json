@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/oscon"
+        }
+    },
+    "name": "OSCON",
+    "date": "May 8-11",
+    "city": "Austin, Texas",
+    "url": "http://conferences.oreilly.com/oscon/open-source-us"
+}

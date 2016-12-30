@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/developerweek"
+        }
+    },
+    "name": "DeveloperWeek",
+    "date": "February 11-16",
+    "city": "San Francisco, California",
+    "url": "http://www.developerweek.com/"
+}

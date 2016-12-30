@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/netapp-insight-berlin"
+        }
+    },
+    "name": "NetApp Insight",
+    "date": "November 13-16",
+    "city": "Berlin, Germany",
+    "url": "http://www.netapp-insight.com/"
+}

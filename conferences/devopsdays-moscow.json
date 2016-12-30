@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devopsdays-moscow"
+        }
+    },
+    "name": "DevOpsDays Moscow",
+    "date": "February 11",
+    "city": "Moscow, Russia",
+    "url": "https://www.devopsdays.org/events/2017-moscow/welcome"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/container-camp"
+        }
+    },
+    "name": "Container Camp",
+    "date": "May 22-24",
+    "city": "Sydney, Australia",
+    "url": "https://container.camp/"
+}

@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/vmworld-europe"
+        }
+    },
+    "name": "VMWorld",
+    "date": "September 11-14",
+    "city": "Barcelona, Spain",
+    "url": "https://www.vmworld.com/en/europe/index.html?"
+}

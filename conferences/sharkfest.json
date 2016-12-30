@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/sharkfest"
+        }
+    },
+    "name": "SharkFest",
+    "date": "TBD",
+    "city": "Mountain View, California",
+    "url": "https://sharkfest.wireshark.org/"
+}

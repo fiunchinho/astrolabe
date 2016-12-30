@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/ibm-interconnect"
+        }
+    },
+    "name": "IBM Interconnect",
+    "date": "March 19-23",
+    "city": "Las Vegas, Nevada",
+    "url": "http://www.ibm.com/cloud-computing/us/en/interconnect/"
+}

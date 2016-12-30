@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/chefconf"
+        }
+    },
+    "name": "Chef",
+    "date": "May 22-24",
+    "city": "Austin, Texas",
+    "url": "https://chefconf.chef.io/"
+}

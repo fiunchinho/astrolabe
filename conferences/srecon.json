@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/srecon"
+        }
+    },
+    "name": "SREcon",
+    "date": "March 13-14",
+    "city": "San Francisco, California",
+    "url": "https://www.usenix.org/conference/srecon17americas"
+}

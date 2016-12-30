@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/dellemcworld"
+        }
+    },
+    "name": "Dell World",
+    "date": "May 8-11",
+    "city": "Las Vegas, Nevada",
+    "url": "http://www.dellemcworld.com/index.htm"
+}

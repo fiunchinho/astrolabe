@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/dotscale"
+        }
+    },
+    "name": "Dotscale",
+    "date": "April 24",
+    "city": "Paris, France",
+    "url": "http://www.dotscale.io/"
+}

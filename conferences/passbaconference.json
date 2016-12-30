@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/passbaconference"
+        }
+    },
+    "name": "Pass Business Analytics Conference",
+    "date": "TBD",
+    "city": "San Jose, California",
+    "url": "http://passbaconference.com/"
+}

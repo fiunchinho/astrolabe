@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/cloudfoundry-california"
+        }
+    },
+    "name": "Cloud Foundry Summit (California)",
+    "date": "June 13-15",
+    "city": "Santa Clara, California",
+    "url": "https://www.cloudfoundry.org/community/summits/"
+}

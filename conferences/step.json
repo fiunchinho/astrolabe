@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/step"
+        }
+    },
+    "name": "STEP",
+    "date": "TBD",
+    "city": "Dubai",
+    "url": "https://stepconference.com/"
+}

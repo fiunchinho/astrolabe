@@ -1,0 +1,11 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/devexperience"
+        }
+    },
+    "name": "DevExperience",
+    "date": "March 23-24",
+    "city": "Lasi, Romania",
+    "url": "http://devexperience.ro/"
+}
