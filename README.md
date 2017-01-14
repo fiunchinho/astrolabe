@@ -12,3 +12,6 @@ If you want to run your own server dynamically, instead of using auto generated 
 ```bash
 node app.js
 ```
+
+## Endpoints
+Swagger is used to document the different endpoints. After starting the server, just visit [http://localhost:8080/docs/](http://localhost:8080/docs/).
