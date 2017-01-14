@@ -1,0 +1,98 @@
+swagger: "2.0"
+info:
+  version: "0.0.1"
+  title: Astrolabe
+# during dev, should point to your local machine
+host: localhost:8080
+# basePath prefixes all resource paths
+basePath: /
+# 
+schemes:
+  - http
+paths:
+  /conferences:
+    x-swagger-router-controller: conferences
+    get:
+      description: Returns available conferences
+      operationId: conferences
+      responses:
+        "200":
+          description: List of available conferences
+          schema:
+            $ref: '#/definitions/ConferenceListResponse'
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /conferences/{conference}:
+    x-swagger-router-controller: conferences
+    get:
+      description: Conference details
+      operationId: conference_details
+      parameters:
+        - name: conference
+          in: path
+          description: Name of the conference
+          required: true
+          type: string
+      responses:
+        "200":
+          description: Success
+          schema:
+            $ref: "#/definitions/Conference"
+        default:
+          description: Error
+          schema:
+            $ref: "#/definitions/ErrorResponse"
+  /swagger:
+    x-swagger-pipe: swagger_raw
+
+definitions:
+  ConferenceListResponse:
+    type: object
+    properties:
+      _links:
+        type: object
+        properties:
+          self:
+            type: object
+            properties:
+              href:
+                type: string
+      _embedded:
+        type: object
+        properties:
+          conferences:
+            type: array
+            items:
+              $ref: '#/definitions/Conference'
+  Conference:
+    required:
+      - _links
+      - name
+      - date
+      - city
+      - url
+    properties:
+      _links:
+        type: object
+        properties:
+          self:
+            type: object
+            properties:
+              href:
+                type: string
+      name:
+        type: string
+      date:
+        type: string
+      city:
+        type: string
+      url:
+        type: string
+  ErrorResponse:
+    required:
+      - message
+    properties:
+      message:
+        type: string
