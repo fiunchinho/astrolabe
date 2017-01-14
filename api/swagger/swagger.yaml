@@ -9,6 +9,11 @@ basePath: /
 # 
 schemes:
   - http
+consumes:
+  - application/json
+produces:
+  - application/json
+  - application/hal+json
 paths:
   /conferences:
     x-swagger-router-controller: conferences
@@ -73,6 +78,8 @@ definitions:
       - date
       - city
       - url
+      - days
+      - tags
     properties:
       _links:
         type: object
@@ -90,6 +97,14 @@ definitions:
         type: string
       url:
         type: string
+      days:
+        type: array
+        items:
+          type: string
+      tags:
+        type: array
+        items:
+          type: string
   ErrorResponse:
     required:
       - message

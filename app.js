@@ -18,16 +18,3 @@ SwaggerExpress.create(config, function(err, swaggerExpress) {
   app.listen(port);
   console.log('Running on port ' + port);
 });
-
-
-
-
-router.get('/', function(req, res) {
-    res.redirect(307, '/conferences');
-});
-
-app.use(function (req, res, next) {
-  res.header('Content-Type', 'application/hal+json');
-  res.status(200);
-  next();
-});

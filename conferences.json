@@ -882,6 +882,7 @@
         },
         "name": "International Conference on Software Quality",
         "date": "TBD",
+        "days": [],
         "city": "Long Beach, California",
         "url": "http://asq-icsq.org/",
         "tags": []
@@ -2242,6 +2243,7 @@
         },
         "name": "EuroPython",
         "date": "TBD",
+        "days": [],
         "city": "Rimini, Italy",
         "url": "http://europython.eu/",
         "tags": [
@@ -2492,6 +2494,7 @@
         },
         "name": "EuroBSDCon",
         "date": "TBD",
+        "days": [],
         "city": "Paris, France",
         "url": "https://2017.eurobsdcon.org/",
         "tags": []
@@ -2722,6 +2725,7 @@
         },
         "name": "GoTo London",
         "date": "TBD",
+        "days": [],
         "city": "London, England",
         "url": "http://gotoldn.com/",
         "tags": [
@@ -2936,6 +2940,7 @@
         },
         "name": "GoTo Accelerate",
         "date": "TBD",
+        "days": [],
         "city": "London, England",
         "url": "http://gotocon.com/accelerate-2016",
         "tags": [
@@ -2986,6 +2991,7 @@
         },
         "name": "DevOps Docker Camp",
         "date": "TBD",
+        "days": [],
         "city": "Munich, Germany",
         "url": "http://devops-training.de/",
         "tags": [
@@ -3000,6 +3006,7 @@
         },
         "name": "DevOps Connects",
         "date": "TBD",
+        "days": [],
         "city": "Various Locations Worldwide",
         "url": "http://www.devopsconnect.com/",
         "tags": [
@@ -3014,6 +3021,7 @@
         },
         "name": "AsiaBSDCon",
         "date": "TBD",
+        "days": [],
         "city": "Tokyo, Japan",
         "url": "https://2016.asiabsdcon.org/",
         "tags": []
@@ -3026,6 +3034,7 @@
         },
         "name": "IC3",
         "date": "TBD",
+        "days": [],
         "city": "San Jose, California",
         "url": "http://icee3.com/",
         "tags": []
@@ -3038,6 +3047,7 @@
         },
         "name": "STEP",
         "date": "TBD",
+        "days": [],
         "city": "Dubai",
         "url": "https://stepconference.com/",
         "tags": []
@@ -3050,6 +3060,7 @@
         },
         "name": "SaltConf",
         "date": "TBD",
+        "days": [],
         "city": "Salt Lake City, Utah",
         "url": "http://saltconf.com/",
         "tags": [
@@ -3064,6 +3075,7 @@
         },
         "name": "Craft Conf",
         "date": "TBD",
+        "days": [],
         "city": "Budapest, Hungary",
         "url": "craft-conf.com",
         "tags": [
@@ -3079,6 +3091,7 @@
         },
         "name": "Pass Business Analytics Conference",
         "date": "TBD",
+        "days": [],
         "city": "San Jose, California",
         "url": "http://passbaconference.com/",
         "tags": []
@@ -3091,6 +3104,7 @@
         },
         "name": "CoreOS Fest",
         "date": "TBD",
+        "days": [],
         "city": "San Francisco, California and Berlin, Germany",
         "url": "https://coreos.com/fest/",
         "tags": []
@@ -3103,6 +3117,7 @@
         },
         "name": "Baltic DevOps 2017",
         "date": "TBD",
+        "days": [],
         "city": "Tallinn, Estonia",
         "url": "http://topconf.com/baltic-devOps-2016/",
         "tags": [
@@ -3117,6 +3132,7 @@
         },
         "name": "Spiceworld",
         "date": "TBD",
+        "days": [],
         "city": "London, England",
         "url": "http://www.spiceworks.com/spiceworld/london/",
         "tags": []
@@ -3129,6 +3145,7 @@
         },
         "name": "HostingCon China",
         "date": "TBD",
+        "days": [],
         "city": "Shenzhen, China",
         "url": "http://china.hostingcon.com/",
         "tags": []
@@ -3141,6 +3158,7 @@
         },
         "name": "DevOps Summit",
         "date": "TBD",
+        "days": [],
         "city": "New York City, NY",
         "url": "http://devopssummit.sys-con.com/",
         "tags": [
@@ -3155,6 +3173,7 @@
         },
         "name": "SharkFest",
         "date": "TBD",
+        "days": [],
         "city": "Mountain View, California",
         "url": "https://sharkfest.wireshark.org/",
         "tags": []
@@ -3167,6 +3186,7 @@
         },
         "name": "ICAC",
         "date": "TBD",
+        "days": [],
         "city": "Würzburg, Germany",
         "url": "http://icac2016.uni-wuerzburg.de/",
         "tags": []
@@ -3179,6 +3199,7 @@
         },
         "name": "EuroSciPy",
         "date": "TBD",
+        "days": [],
         "city": "Cambridge, England",
         "url": "https://www.euroscipy.org",
         "tags": []
@@ -3191,6 +3212,7 @@
         },
         "name": "Scale",
         "date": "TBD",
+        "days": [],
         "city": "San Jose, California",
         "url": "http://www.atscaleconference.com/",
         "tags": []
@@ -3203,6 +3225,7 @@
         },
         "name": "Puppet Conf",
         "date": "TBD",
+        "days": [],
         "city": "San Diego, California",
         "url": "https://puppet.com/puppetconf",
         "tags": []
@@ -3215,6 +3238,7 @@
         },
         "name": "HostingCon Europe",
         "date": "TBD",
+        "days": [],
         "city": "Amsterdam, the Netherlands",
         "url": "http://europe.hostingcon.com/",
         "tags": []
@@ -3227,6 +3251,7 @@
         },
         "name": "IBM Insight",
         "date": "TBD",
+        "days": [],
         "city": "Las Vegas, Nevada",
         "url": "http://www-01.ibm.com/software/events/insight/",
         "tags": []
@@ -3239,6 +3264,7 @@
         },
         "name": "DevOps Summit",
         "date": "TBD",
+        "days": [],
         "city": "Santa Clara, California",
         "url": "http://devopssummit.sys-con.com/",
         "tags": [
@@ -3253,6 +3279,7 @@
         },
         "name": "Black Hat Europe",
         "date": "TBD",
+        "days": [],
         "city": "Las Vegas, Nevada",
         "url": "https://www.blackhat.com/",
         "tags": []
@@ -3265,6 +3292,7 @@
         },
         "name": "Fusion",
         "date": "TBD",
+        "days": [],
         "city": "Las Vegas, Nevada",
         "url": "http://www.servicemanagementfusion.com/",
         "tags": []
@@ -3277,6 +3305,7 @@
         },
         "name": "Google I/O",
         "date": "TBD",
+        "days": [],
         "city": "San Francisco, California",
         "url": "https://events.google.com/io2015/#",
         "tags": []
@@ -3289,6 +3318,7 @@
         },
         "name": "DevOps Conference Germany",
         "date": "TBD",
+        "days": [],
         "city": "Munich, Germany",
         "url": "http://devopsconference.de/",
         "tags": [
@@ -3303,6 +3333,7 @@
         },
         "name": "DevCon TLV",
         "date": "TBD",
+        "days": [],
         "city": "Tel Aviv, Israel",
         "url": "https://devcontlvjune2015.events.co.il/home",
         "tags": []
@@ -3315,6 +3346,7 @@
         },
         "name": "IoT World Conference",
         "date": "TBD",
+        "days": [],
         "city": "London, England",
         "url": "http://iotinternetofthingsconference.com/",
         "tags": [
@@ -3329,6 +3361,7 @@
         },
         "name": "Spark Summit Europe",
         "date": "TBD",
+        "days": [],
         "city": "Amsterdam, the Netherlands",
         "url": "https://spark-summit.org/",
         "tags": [
@@ -3343,6 +3376,7 @@
         },
         "name": "Jenkins World and User Conferences",
         "date": "TBD",
+        "days": [],
         "city": "Various Locations Worldwide",
         "url": "https://www.cloudbees.com/company/events/juc",
         "tags": []
@@ -3355,6 +3389,7 @@
         },
         "name": "Surge",
         "date": "TBD",
+        "days": [],
         "city": "National Harbor, Maryland",
         "url": "http://surge.omniti.com/",
         "tags": []
@@ -3367,6 +3402,7 @@
         },
         "name": "Defrag",
         "date": "TBD",
+        "days": [],
         "city": "Broomfield, Colorado",
         "url": "http://defragcon.com/",
         "tags": []
@@ -3379,6 +3415,7 @@
         },
         "name": "RubyConf",
         "date": "TBD",
+        "days": [],
         "city": "Cinncinati, Ohio",
         "url": "http://rubyconf.org/",
         "tags": []
@@ -3391,6 +3428,7 @@
         },
         "name": "ZendCon",
         "date": "TBD",
+        "days": [],
         "city": "Las Vegas, Nevada",
         "url": "http://www.zendcon.com/",
         "tags": []
@@ -3403,6 +3441,7 @@
         },
         "name": "DevOpsDays Chicago",
         "date": "TBD",
+        "days": [],
         "city": "Chicago, Illinois",
         "url": "https://www.devopsdays.org/events/2017-chicago/welcome",
         "tags": [
@@ -3417,7 +3456,9 @@
         },
         "name": "DevOpsDays Ohio",
         "date": "TBD",
+        "days": [],
         "city": "TBD",
+        "days": [],
         "url": "https://www.devopsdays.org/events/2017-ohio/welcome",
         "tags": [
           "devops"
@@ -3431,6 +3472,7 @@
         },
         "name": "DevOpsDays Paris",
         "date": "TBD",
+        "days": [],
         "city": "Paris, France",
         "url": "https://www.devopsdays.org/events/2017-paris/welcome",
         "tags": [
@@ -3445,6 +3487,7 @@
         },
         "name": "DevOpsDays Portland",
         "date": "TBD",
+        "days": [],
         "city": "Portland, Oregon",
         "url": "https://www.devopsdays.org/events/2017-portland/welcome",
         "tags": [
@@ -3459,6 +3502,7 @@
         },
         "name": "DevOpsDays Stockholm",
         "date": "TBD",
+        "days": [],
         "city": "Stockholm, Sweden",
         "url": "https://www.devopsdays.org/events/2017-stockholm/welcome",
         "tags": [
@@ -3473,6 +3517,7 @@
         },
         "name": "DevOpsDays Sao Paulo",
         "date": "TBD",
+        "days": [],
         "city": "Sao Paulo, Brazil",
         "url": "https://www.devopsdays.org/events/2017-sao-paulo/welcome",
         "tags": [
@@ -3487,6 +3532,7 @@
         },
         "name": "DevOpsDays Toronto",
         "date": "TBD",
+        "days": [],
         "city": "Toronto, Canada",
         "url": "https://www.devopsdays.org/events/2017-toronto/welcome",
         "tags": [
@@ -3501,6 +3547,7 @@
         },
         "name": "AWS Summit Chicago",
         "date": "TBD",
+        "days": [],
         "city": "Chicago, Illinois",
         "url": "https://aws.amazon.com/summits/chicago/",
         "tags": [
@@ -3516,6 +3563,7 @@
         },
         "name": "AWS Summit Santa Clara",
         "date": "TBD",
+        "days": [],
         "city": "Santa Clara, California",
         "url": "https://aws.amazon.com/summits/santa-clara/",
         "tags": [
@@ -3531,6 +3579,7 @@
         },
         "name": "AWS Summit New York",
         "date": "TBD",
+        "days": [],
         "city": "New York City, NY",
         "url": "https://aws.amazon.com/summits/new-york/",
         "tags": [
@@ -3546,6 +3595,7 @@
         },
         "name": "AWS Summit Washington, D.C.",
         "date": "TBD",
+        "days": [],
         "city": "Washington, D.C.",
         "url": "https://aws.amazon.com/summits/washington-dc/",
         "tags": [
@@ -3561,6 +3611,7 @@
         },
         "name": "AWS Summit Dallas",
         "date": "TBD",
+        "days": [],
         "city": "Dallas, Texas",
         "url": "https://aws.amazon.com/summits/enterprise-summit-dallas/",
         "tags": [
@@ -3576,6 +3627,7 @@
         },
         "name": "AWS Summit Atlanta",
         "date": "TBD",
+        "days": [],
         "city": "Atlanta, Georgia",
         "url": "https://aws.amazon.com/summits/enterprise-summit-atlanta/",
         "tags": [
@@ -3591,6 +3643,7 @@
         },
         "name": "AWS Summit Boston",
         "date": "TBD",
+        "days": [],
         "city": "Boston, Massachusetts",
         "url": "https://aws.amazon.com/summits/enterprise-summit-boston/",
         "tags": [
@@ -3606,6 +3659,7 @@
         },
         "name": "AWS Summit Toronto",
         "date": "TBD",
+        "days": [],
         "city": "Toronto, Canada",
         "url": "https://aws.amazon.com/summits/enterprise-summit-toronto/",
         "tags": [
@@ -3621,6 +3675,7 @@
         },
         "name": "AWS Summit Bogota",
         "date": "TBD",
+        "days": [],
         "city": "Bogota, Colombia",
         "url": "https://aws.amazon.com/es/summits/bogota/",
         "tags": [
@@ -3636,6 +3691,7 @@
         },
         "name": "AWS Summit Buenos Aires",
         "date": "TBD",
+        "days": [],
         "city": "Buenos Aires, Argentina",
         "url": "https://aws.amazon.com/es/summits/buenos-aires/",
         "tags": [
@@ -3651,6 +3707,7 @@
         },
         "name": "AWS Summit Santiago",
         "date": "TBD",
+        "days": [],
         "city": "Santiago, Chile",
         "url": "https://aws.amazon.com/es/summits/santiago/",
         "tags": [
@@ -3666,6 +3723,7 @@
         },
         "name": "AWS Summit Mexico City",
         "date": "TBD",
+        "days": [],
         "city": "Mexico City, Mexico",
         "url": "https://aws.amazon.com/es/summits/mexico-city/",
         "tags": [
@@ -3681,6 +3739,7 @@
         },
         "name": "AWS Summit Sao Paulo",
         "date": "TBD",
+        "days": [],
         "city": "Sao Paulo, Brazil",
         "url": "https://aws.amazon.com/pt/summits/sao-paulo/",
         "tags": [
@@ -3696,6 +3755,7 @@
         },
         "name": "AWS Summit Rio de Janeiro",
         "date": "TBD",
+        "days": [],
         "city": "Rio de Janeiro, Brazil",
         "url": "https://aws.amazon.com/pt/summits/rio-de-janeiro/",
         "tags": [
@@ -3711,6 +3771,7 @@
         },
         "name": "AWS Summit Lima",
         "date": "TBD",
+        "days": [],
         "city": "Lima, Peru",
         "url": "https://aws.amazon.com/es/summits/lima/",
         "tags": [

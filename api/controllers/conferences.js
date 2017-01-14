@@ -2,7 +2,7 @@
 
 var bodyParser = require('body-parser');
 var halson = require('halson');
-var conferences = require('./../../../../conferences.json')._embedded.conferences;
+var conferences = require('./../../conferences.json')._embedded.conferences;
 
 module.exports = {
   conferences: listConferences,
@@ -25,6 +25,7 @@ function conference_details(req, res) {
           tags: conference.tags,
           days: conference.days
       }).addLink('self', conference._links.self.href.slice(0, -5));
+
       res.json(resource);
   }else{
       res.status(404).send('');
