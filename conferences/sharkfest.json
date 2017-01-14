@@ -6,6 +6,7 @@
     },
     "name": "SharkFest",
     "date": "TBD",
+    "days": [],
     "city": "Mountain View, California",
     "url": "https://sharkfest.wireshark.org/",
     "tags": []
