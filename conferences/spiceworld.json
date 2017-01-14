@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/spiceworld"
+            "href": "/conferences/spiceworld.json"
         }
     },
     "name": "Spiceworld",
     "date": "October 9-11",
     "city": "Austin, Texas",
-    "url": "http://www.spiceworks.com/spiceworld/austin/"
+    "url": "http://www.spiceworks.com/spiceworld/austin/",
+    "tags": [],
+    "days": [
+        "2017-10-09T13:00:00.000Z",
+        "2017-10-10T13:00:00.000Z",
+        "2017-10-11T13:00:00.000Z"
+    ]
 }

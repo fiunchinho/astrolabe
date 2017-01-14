@@ -1,11 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devopsdays-ohio"
+            "href": "/conferences/devopsdays-ohio.json"
         }
     },
     "name": "DevOpsDays Ohio",
     "date": "TBD",
     "city": "TBD",
-    "url": "https://www.devopsdays.org/events/2017-ohio/welcome"
+    "url": "https://www.devopsdays.org/events/2017-ohio/welcome",
+    "tags": [
+        "devops"
+    ]
 }

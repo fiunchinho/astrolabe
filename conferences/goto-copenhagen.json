@@ -1,11 +1,21 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/goto-copenhagen"
+            "href": "/conferences/goto-copenhagen.json"
         }
     },
     "name": "GoTo Copenhagen",
     "date": "October 1-5",
     "city": "Copenhagen, Denmark",
-    "url": "http://gotocph.com/"
+    "url": "http://gotocph.com/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-10-01T13:00:00.000Z",
+        "2017-10-02T13:00:00.000Z",
+        "2017-10-03T13:00:00.000Z",
+        "2017-10-04T13:00:00.000Z",
+        "2017-10-05T13:00:00.000Z"
+    ]
 }

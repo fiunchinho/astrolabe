@@ -1,11 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/aws-boston"
+            "href": "/conferences/aws-boston.json"
         }
     },
     "name": "AWS Summit Boston",
     "date": "TBD",
     "city": "Boston, Massachusetts",
-    "url": "https://aws.amazon.com/summits/enterprise-summit-boston/"
+    "url": "https://aws.amazon.com/summits/enterprise-summit-boston/",
+    "tags": [
+        "aws",
+        "cloud"
+    ]
 }

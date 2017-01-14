@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/nolacon"
+            "href": "/conferences/nolacon.json"
         }
     },
     "name": "NolaCon",
     "date": "May 19-21",
     "city": "New Orleans, Louisiana",
-    "url": "https://nolacon.com/"
+    "url": "https://nolacon.com/",
+    "tags": [],
+    "days": [
+        "2017-05-19T13:00:00.000Z",
+        "2017-05-20T13:00:00.000Z",
+        "2017-05-21T13:00:00.000Z"
+    ]
 }

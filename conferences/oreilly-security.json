@@ -1,10 +1,16 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/oreilly-security"
+            "href": "/conferences/oreilly-security.json"
         }
     },
     "name": "O'Reilly Security",
     "date": "October 29 - November 1",
-    "city": "New York City, NY"
+    "city": "New York City, NY",
+    "days": [
+        "2017-10-29T14:00:00.000Z",
+        "2017-10-30T14:00:00.000Z",
+        "2017-10-31T14:00:00.000Z",
+        "2017-11-01T14:00:00.000Z"
+    ]
 }

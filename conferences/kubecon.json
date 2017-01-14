@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/kubecon"
+            "href": "/conferences/kubecon.json"
         }
     },
     "name": "CloudNativeCon + KubeCon",
     "date": "March 29-30",
     "city": "Berlin, Germany",
-    "url": "http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe"
+    "url": "http://events.linuxfoundation.org/events/cloudnativecon-and-kubecon-europe",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-03-29T13:00:00.000Z",
+        "2017-03-30T13:00:00.000Z"
+    ]
 }

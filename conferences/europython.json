@@ -1,11 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/europython"
+            "href": "/conferences/europython.json"
         }
     },
     "name": "EuroPython",
     "date": "TBD",
     "city": "Rimini, Italy",
-    "url": "http://europython.eu/"
+    "url": "http://europython.eu/",
+    "tags": [
+        "dev",
+        "python"
+    ]
 }

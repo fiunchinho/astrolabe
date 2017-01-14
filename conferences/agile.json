@@ -1,11 +1,21 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/agile"
+            "href": "/conferences/agile.json"
         }
     },
     "name": "Agile",
     "date": "August 7-11",
     "city": "Washington, D.C.",
-    "url": "https://www.agilealliance.org/agile2017/"
+    "url": "https://www.agilealliance.org/agile2017/",
+    "tags": [
+        "agile"
+    ],
+    "days": [
+        "2017-08-07T13:00:00.000Z",
+        "2017-08-08T13:00:00.000Z",
+        "2017-08-09T13:00:00.000Z",
+        "2017-08-10T13:00:00.000Z",
+        "2017-08-11T13:00:00.000Z"
+    ]
 }

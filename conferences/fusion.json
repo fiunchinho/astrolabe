@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/fusion"
+            "href": "/conferences/fusion.json"
         }
     },
     "name": "Fusion",
     "date": "TBD",
     "city": "Las Vegas, Nevada",
-    "url": "http://www.servicemanagementfusion.com/"
+    "url": "http://www.servicemanagementfusion.com/",
+    "tags": []
 }

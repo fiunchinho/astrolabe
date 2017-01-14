@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devcon-tlv"
+            "href": "/conferences/devcon-tlv.json"
         }
     },
     "name": "DevCon TLV",
     "date": "TBD",
     "city": "Tel Aviv, Israel",
-    "url": "https://devcontlvjune2015.events.co.il/home"
+    "url": "https://devcontlvjune2015.events.co.il/home",
+    "tags": []
 }

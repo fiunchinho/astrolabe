@@ -1,0 +1,17 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/dataday-texas.json"
+        }
+    },
+    "name": "Data Day Texas 2016",
+    "date": "January 14",
+    "city": "Austin, Texas",
+    "url": "http://datadaytexas.com/",
+    "tags": [
+        "big-data"
+    ],
+    "days": [
+        "2017-01-14T14:00:00.000Z"
+    ]
+}

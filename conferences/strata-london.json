@@ -1,11 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/strata-london"
+            "href": "/conferences/strata-london.json"
         }
     },
     "name": "Strata + Hadoop World",
     "date": "May 22-25",
     "city": "London, England",
-    "url": "http://conferences.oreilly.com/strata"
+    "url": "http://conferences.oreilly.com/strata",
+    "tags": [
+        "big-data"
+    ],
+    "days": [
+        "2017-05-22T13:00:00.000Z",
+        "2017-05-23T13:00:00.000Z",
+        "2017-05-24T13:00:00.000Z",
+        "2017-05-25T13:00:00.000Z"
+    ]
 }

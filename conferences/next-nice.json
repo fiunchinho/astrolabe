@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/next-nice"
+            "href": "/conferences/next-nice.json"
         }
     },
     "name": ".next",
     "date": "November 7-9",
     "city": "Nice, France",
-    "url": "https://www.nutanix.com/next/"
+    "url": "https://www.nutanix.com/next/",
+    "tags": [],
+    "days": [
+        "2017-11-07T14:00:00.000Z",
+        "2017-11-08T14:00:00.000Z",
+        "2017-11-09T14:00:00.000Z"
+    ]
 }

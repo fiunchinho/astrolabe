@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/velocity-london"
+            "href": "/conferences/velocity-london.json"
         }
     },
     "name": "Velocity",
     "date": "October 18-20",
     "city": "London, England",
-    "url": "http://conferences.oreilly.com/velocity"
+    "url": "http://conferences.oreilly.com/velocity",
+    "tags": [],
+    "days": [
+        "2017-10-18T13:00:00.000Z",
+        "2017-10-19T13:00:00.000Z",
+        "2017-10-20T13:00:00.000Z"
+    ]
 }

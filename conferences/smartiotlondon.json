@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/smartiotlondon"
+            "href": "/conferences/smartiotlondon.json"
         }
     },
     "name": "Smart IoT London",
     "date": "March 15-16",
     "city": "London, England",
-    "url": "http://www.smartiotlondon.com/"
+    "url": "http://www.smartiotlondon.com/",
+    "tags": [
+        "iot"
+    ],
+    "days": [
+        "2017-03-15T14:00:00.000Z",
+        "2017-03-16T14:00:00.000Z"
+    ]
 }

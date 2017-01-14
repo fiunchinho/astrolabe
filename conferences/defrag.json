@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/defrag"
+            "href": "/conferences/defrag.json"
         }
     },
     "name": "Defrag",
     "date": "TBD",
     "city": "Broomfield, Colorado",
-    "url": "http://defragcon.com/"
+    "url": "http://defragcon.com/",
+    "tags": []
 }

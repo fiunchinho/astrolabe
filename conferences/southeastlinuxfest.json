@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/southeastlinuxfest"
+            "href": "/conferences/southeastlinuxfest.json"
         }
     },
     "name": "Southeast Linux Fest",
     "date": "June 9-11",
     "city": "Charlotte, North Carolina",
-    "url": "http://www.southeastlinuxfest.org/"
+    "url": "http://www.southeastlinuxfest.org/",
+    "tags": [],
+    "days": [
+        "2017-06-09T13:00:00.000Z",
+        "2017-06-10T13:00:00.000Z",
+        "2017-06-11T13:00:00.000Z"
+    ]
 }

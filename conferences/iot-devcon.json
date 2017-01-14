@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/iot-devcon"
+            "href": "/conferences/iot-devcon.json"
         }
     },
     "name": "IoT Developers Conference",
     "date": "April 26-27",
     "city": "Santa Clara, California",
-    "url": "http://www.iot-devcon.com/"
+    "url": "http://www.iot-devcon.com/",
+    "tags": [
+        "iot"
+    ],
+    "days": [
+        "2017-04-26T13:00:00.000Z",
+        "2017-04-27T13:00:00.000Z"
+    ]
 }

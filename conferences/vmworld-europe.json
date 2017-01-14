@@ -1,11 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/vmworld-europe"
+            "href": "/conferences/vmworld-europe.json"
         }
     },
     "name": "VMWorld",
     "date": "September 11-14",
     "city": "Barcelona, Spain",
-    "url": "https://www.vmworld.com/en/europe/index.html?"
+    "url": "https://www.vmworld.com/en/europe/index.html?",
+    "tags": [
+        "vmware"
+    ],
+    "days": [
+        "2017-09-11T13:00:00.000Z",
+        "2017-09-12T13:00:00.000Z",
+        "2017-09-13T13:00:00.000Z",
+        "2017-09-14T13:00:00.000Z"
+    ]
 }

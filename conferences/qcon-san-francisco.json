@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/qcon-san-francisco"
+            "href": "/conferences/qcon-san-francisco.json"
         }
     },
     "name": "QCon San Francisco",
     "date": "November 13-17",
     "city": "San Francisco, California",
-    "url": "https://qconsf.com/"
+    "url": "https://qconsf.com/",
+    "tags": [],
+    "days": [
+        "2017-11-13T14:00:00.000Z",
+        "2017-11-14T14:00:00.000Z",
+        "2017-11-15T14:00:00.000Z",
+        "2017-11-16T14:00:00.000Z",
+        "2017-11-17T14:00:00.000Z"
+    ]
 }

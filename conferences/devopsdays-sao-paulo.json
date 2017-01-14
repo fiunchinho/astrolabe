@@ -1,11 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devopsdays-sao-paulo"
+            "href": "/conferences/devopsdays-sao-paulo.json"
         }
     },
     "name": "DevOpsDays Sao Paulo",
     "date": "TBD",
     "city": "Sao Paulo, Brazil",
-    "url": "https://www.devopsdays.org/events/2017-sao-paulo/welcome"
+    "url": "https://www.devopsdays.org/events/2017-sao-paulo/welcome",
+    "tags": [
+        "devops"
+    ]
 }

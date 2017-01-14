@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/oscon"
+            "href": "/conferences/oscon.json"
         }
     },
     "name": "OSCON",
     "date": "May 8-11",
     "city": "Austin, Texas",
-    "url": "http://conferences.oreilly.com/oscon/open-source-us"
+    "url": "http://conferences.oreilly.com/oscon/open-source-us",
+    "tags": [],
+    "days": [
+        "2017-05-08T13:00:00.000Z",
+        "2017-05-09T13:00:00.000Z",
+        "2017-05-10T13:00:00.000Z",
+        "2017-05-11T13:00:00.000Z"
+    ]
 }

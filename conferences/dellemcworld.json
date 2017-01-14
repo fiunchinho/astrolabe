@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/dellemcworld"
+            "href": "/conferences/dellemcworld.json"
         }
     },
     "name": "Dell World",
     "date": "May 8-11",
     "city": "Las Vegas, Nevada",
-    "url": "http://www.dellemcworld.com/index.htm"
+    "url": "http://www.dellemcworld.com/index.htm",
+    "tags": [],
+    "days": [
+        "2017-05-08T13:00:00.000Z",
+        "2017-05-09T13:00:00.000Z",
+        "2017-05-10T13:00:00.000Z",
+        "2017-05-11T13:00:00.000Z"
+    ]
 }

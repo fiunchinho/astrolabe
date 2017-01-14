@@ -1,11 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/aws-mexico"
+            "href": "/conferences/aws-mexico.json"
         }
     },
     "name": "AWS Summit Mexico City",
     "date": "TBD",
     "city": "Mexico City, Mexico",
-    "url": "https://aws.amazon.com/es/summits/mexico-city/"
+    "url": "https://aws.amazon.com/es/summits/mexico-city/",
+    "tags": [
+        "aws",
+        "cloud"
+    ]
 }

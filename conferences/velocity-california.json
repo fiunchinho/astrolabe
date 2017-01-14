@@ -1,11 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/velocity-california"
+            "href": "/conferences/velocity-california.json"
         }
     },
     "name": "Velocity",
     "date": "June 19-22",
     "city": "San Jose, California",
-    "url": "http://conferences.oreilly.com/velocity"
+    "url": "http://conferences.oreilly.com/velocity",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-06-19T13:00:00.000Z",
+        "2017-06-20T13:00:00.000Z",
+        "2017-06-21T13:00:00.000Z",
+        "2017-06-22T13:00:00.000Z"
+    ]
 }

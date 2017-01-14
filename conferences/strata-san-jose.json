@@ -1,11 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/strata-san-jose"
+            "href": "/conferences/strata-san-jose.json"
         }
     },
     "name": "Strata + Hadoop World",
     "date": "March 13-16",
     "city": "San Jose, California",
-    "url": "http://conferences.oreilly.com/strata"
+    "url": "http://conferences.oreilly.com/strata",
+    "tags": [
+        "big-data"
+    ],
+    "days": [
+        "2017-03-13T14:00:00.000Z",
+        "2017-03-14T14:00:00.000Z",
+        "2017-03-15T14:00:00.000Z",
+        "2017-03-16T14:00:00.000Z"
+    ]
 }

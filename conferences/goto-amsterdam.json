@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/goto-amsterdam"
+            "href": "/conferences/goto-amsterdam.json"
         }
     },
     "name": "GoTo Amsterdam",
     "date": "June 12-14",
     "city": "Amsterdam, the Netherlands",
-    "url": "http://gotoams.nl/"
+    "url": "http://gotoams.nl/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-06-12T13:00:00.000Z",
+        "2017-06-13T13:00:00.000Z",
+        "2017-06-14T13:00:00.000Z"
+    ]
 }

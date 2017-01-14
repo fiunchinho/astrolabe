@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/microsoft-build"
+            "href": "/conferences/microsoft-build.json"
         }
     },
     "name": "Microsoft Build",
     "date": "May 10-12",
     "city": "Seattle, Washington",
-    "url": "http://build.microsoft.com/"
+    "url": "http://build.microsoft.com/",
+    "tags": [
+        "microsoft"
+    ],
+    "days": [
+        "2017-05-10T13:00:00.000Z",
+        "2017-05-11T13:00:00.000Z",
+        "2017-05-12T13:00:00.000Z"
+    ]
 }

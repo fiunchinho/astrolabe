@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/qcon"
+            "href": "/conferences/qcon.json"
         }
     },
     "name": "QCon",
     "date": "March 6-8",
     "city": "London, England",
-    "url": "http://qconlondon.com/"
+    "url": "http://qconlondon.com/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-03-06T14:00:00.000Z",
+        "2017-03-07T14:00:00.000Z",
+        "2017-03-08T14:00:00.000Z"
+    ]
 }

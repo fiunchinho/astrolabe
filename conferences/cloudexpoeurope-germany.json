@@ -1,11 +1,16 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/cloudexpoeurope-germany"
+            "href": "/conferences/cloudexpoeurope-germany.json"
         }
     },
     "name": "Cloud Expo Europe",
     "date": "November 28-29",
     "city": "Frankfurt, Germany",
-    "url": "http://www.cloudexpoeurope.de/"
+    "url": "http://www.cloudexpoeurope.de/",
+    "tags": [],
+    "days": [
+        "2017-11-28T14:00:00.000Z",
+        "2017-11-29T14:00:00.000Z"
+    ]
 }

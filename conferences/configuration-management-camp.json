@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/configuration-management-camp"
+            "href": "/conferences/configuration-management-camp.json"
         }
     },
     "name": "Configuration Management Camp",
     "date": "February 6-7",
     "city": "Ghent, Belgium",
-    "url": "http://cfgmgmtcamp.eu/"
+    "url": "http://cfgmgmtcamp.eu/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-02-06T14:00:00.000Z",
+        "2017-02-07T14:00:00.000Z"
+    ]
 }

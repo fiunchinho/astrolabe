@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/dotscale"
+            "href": "/conferences/dotscale.json"
         }
     },
     "name": "Dotscale",
     "date": "April 24",
     "city": "Paris, France",
-    "url": "http://www.dotscale.io/"
+    "url": "http://www.dotscale.io/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-04-24T13:00:00.000Z"
+    ]
 }

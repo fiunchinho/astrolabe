@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/qcon-sp"
+            "href": "/conferences/qcon-sp.json"
         }
     },
     "name": "QCon",
     "date": "April 24-26",
     "city": "Sao Paulo, Brazil",
-    "url": "http://qconsp.com/"
+    "url": "http://qconsp.com/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-04-24T13:00:00.000Z",
+        "2017-04-25T13:00:00.000Z",
+        "2017-04-26T13:00:00.000Z"
+    ]
 }

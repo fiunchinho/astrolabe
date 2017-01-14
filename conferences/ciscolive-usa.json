@@ -1,0 +1,19 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/ciscolive-usa.json"
+        }
+    },
+    "name": "Cisco Live",
+    "date": "June 25-29",
+    "city": "Las Vegas, Nevada",
+    "url": "http://www.ciscolive.com/us/",
+    "tags": [],
+    "days": [
+        "2017-06-25T13:00:00.000Z",
+        "2017-06-26T13:00:00.000Z",
+        "2017-06-27T13:00:00.000Z",
+        "2017-06-28T13:00:00.000Z",
+        "2017-06-29T13:00:00.000Z"
+    ]
+}

@@ -1,11 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/dockercon"
+            "href": "/conferences/dockercon.json"
         }
     },
     "name": "Dockercon",
     "date": "April 17-20",
     "city": "Austin, Texas",
-    "url": "http://2017.dockercon.com/"
+    "url": "http://2017.dockercon.com/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-04-17T13:00:00.000Z",
+        "2017-04-18T13:00:00.000Z",
+        "2017-04-19T13:00:00.000Z",
+        "2017-04-20T13:00:00.000Z"
+    ]
 }

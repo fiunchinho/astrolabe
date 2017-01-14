@@ -1,11 +1,16 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/casitconf"
+            "href": "/conferences/casitconf.json"
         }
     },
     "name": "Cascadia IT Conference",
     "date": "March 10-11",
     "city": "Seattle, Washington",
-    "url": "https://www.casitconf.org/casitconf17/"
+    "url": "https://www.casitconf.org/casitconf17/",
+    "tags": [],
+    "days": [
+        "2017-03-10T14:00:00.000Z",
+        "2017-03-11T14:00:00.000Z"
+    ]
 }

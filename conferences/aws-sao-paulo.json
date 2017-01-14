@@ -1,11 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/aws-sao-paulo"
+            "href": "/conferences/aws-sao-paulo.json"
         }
     },
     "name": "AWS Summit Sao Paulo",
     "date": "TBD",
     "city": "Sao Paulo, Brazil",
-    "url": "https://aws.amazon.com/pt/summits/sao-paulo/"
+    "url": "https://aws.amazon.com/pt/summits/sao-paulo/",
+    "tags": [
+        "aws",
+        "cloud"
+    ]
 }

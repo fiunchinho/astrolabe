@@ -1,11 +1,22 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/blackhat-usa"
+            "href": "/conferences/blackhat-usa.json"
         }
     },
     "name": "Black Hat USA",
     "date": "July 22-27",
     "city": "Las Vegas, Nevada",
-    "url": "https://www.blackhat.com/"
+    "url": "https://www.blackhat.com/",
+    "tags": [
+        "security"
+    ],
+    "days": [
+        "2017-07-22T13:00:00.000Z",
+        "2017-07-23T13:00:00.000Z",
+        "2017-07-24T13:00:00.000Z",
+        "2017-07-25T13:00:00.000Z",
+        "2017-07-26T13:00:00.000Z",
+        "2017-07-27T13:00:00.000Z"
+    ]
 }

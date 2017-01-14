@@ -1,11 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/saltconf"
+            "href": "/conferences/saltconf.json"
         }
     },
     "name": "SaltConf",
     "date": "TBD",
     "city": "Salt Lake City, Utah",
-    "url": "http://saltconf.com/"
+    "url": "http://saltconf.com/",
+    "tags": [
+        "devops"
+    ]
 }

@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/goto-berlin"
+            "href": "/conferences/goto-berlin.json"
         }
     },
     "name": "GoTo Berlin",
     "date": "November 15-17",
     "city": "Berlin, Germany",
-    "url": "http://gotober.com/"
+    "url": "http://gotober.com/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-11-15T14:00:00.000Z",
+        "2017-11-16T14:00:00.000Z",
+        "2017-11-17T14:00:00.000Z"
+    ]
 }

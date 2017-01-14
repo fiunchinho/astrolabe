@@ -1,0 +1,19 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/linuxconf-au.json"
+        }
+    },
+    "name": "linux.conf.au",
+    "date": "January 16-20",
+    "city": "Geelong, Victoria, Australia",
+    "url": "https://linux.conf.au",
+    "tags": [],
+    "days": [
+        "2017-01-16T14:00:00.000Z",
+        "2017-01-17T14:00:00.000Z",
+        "2017-01-18T14:00:00.000Z",
+        "2017-01-19T14:00:00.000Z",
+        "2017-01-20T14:00:00.000Z"
+    ]
+}

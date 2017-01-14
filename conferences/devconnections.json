@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devconnections"
+            "href": "/conferences/devconnections.json"
         }
     },
     "name": "IT / Dev Connections",
     "date": "October 23-26",
     "city": "San Francisco, California",
-    "url": "http://www.devconnections.com/"
+    "url": "http://www.devconnections.com/",
+    "tags": [],
+    "days": [
+        "2017-10-23T13:00:00.000Z",
+        "2017-10-24T13:00:00.000Z",
+        "2017-10-25T13:00:00.000Z",
+        "2017-10-26T13:00:00.000Z"
+    ]
 }

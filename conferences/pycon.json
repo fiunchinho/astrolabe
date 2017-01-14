@@ -1,11 +1,26 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/pycon"
+            "href": "/conferences/pycon.json"
         }
     },
     "name": "PyCon",
     "date": "May 17-25",
     "city": "Portland, Oregon",
-    "url": "https://us.pycon.org/2016/"
+    "url": "https://us.pycon.org/2016/",
+    "tags": [
+        "dev",
+        "python"
+    ],
+    "days": [
+        "2017-05-17T13:00:00.000Z",
+        "2017-05-18T13:00:00.000Z",
+        "2017-05-19T13:00:00.000Z",
+        "2017-05-20T13:00:00.000Z",
+        "2017-05-21T13:00:00.000Z",
+        "2017-05-22T13:00:00.000Z",
+        "2017-05-23T13:00:00.000Z",
+        "2017-05-24T13:00:00.000Z",
+        "2017-05-25T13:00:00.000Z"
+    ]
 }

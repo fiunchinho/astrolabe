@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/sharkfest"
+            "href": "/conferences/sharkfest.json"
         }
     },
     "name": "SharkFest",
     "date": "TBD",
     "city": "Mountain View, California",
-    "url": "https://sharkfest.wireshark.org/"
+    "url": "https://sharkfest.wireshark.org/",
+    "tags": []
 }

@@ -1,11 +1,16 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/datacentreworld-france"
+            "href": "/conferences/datacentreworld-france.json"
         }
     },
     "name": "Data Centre World",
     "date": "November 15-16",
     "city": "Paris, France",
-    "url": "http://www.datacentreworld.fr/"
+    "url": "http://www.datacentreworld.fr/",
+    "tags": [],
+    "days": [
+        "2017-11-15T14:00:00.000Z",
+        "2017-11-16T14:00:00.000Z"
+    ]
 }

@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/velocity-ny"
+            "href": "/conferences/velocity-ny.json"
         }
     },
     "name": "Velocity",
     "date": "October 1-4",
     "city": "New York City, NY",
-    "url": "http://conferences.oreilly.com/velocity"
+    "url": "http://conferences.oreilly.com/velocity",
+    "tags": [],
+    "days": [
+        "2017-10-01T13:00:00.000Z",
+        "2017-10-02T13:00:00.000Z",
+        "2017-10-03T13:00:00.000Z",
+        "2017-10-04T13:00:00.000Z"
+    ]
 }

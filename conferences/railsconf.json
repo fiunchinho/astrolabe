@@ -1,11 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/railsconf"
+            "href": "/conferences/railsconf.json"
         }
     },
     "name": "RailsConf",
     "date": "April 25-27",
     "city": "Phoenix, Arizona",
-    "url": "http://www.railsconf.com/"
+    "url": "http://www.railsconf.com/",
+    "tags": [
+        "dev",
+        "rails"
+    ],
+    "days": [
+        "2017-04-25T13:00:00.000Z",
+        "2017-04-26T13:00:00.000Z",
+        "2017-04-27T13:00:00.000Z"
+    ]
 }

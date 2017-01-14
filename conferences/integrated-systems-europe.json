@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/integrated-systems-europe"
+            "href": "/conferences/integrated-systems-europe.json"
         }
     },
     "name": "Integrated Systems Europe",
     "date": "February 7-10",
     "city": "Amsterdam, the Netherlands",
-    "url": "https://www.iseurope.org/"
+    "url": "https://www.iseurope.org/",
+    "tags": [],
+    "days": [
+        "2017-02-07T14:00:00.000Z",
+        "2017-02-08T14:00:00.000Z",
+        "2017-02-09T14:00:00.000Z",
+        "2017-02-10T14:00:00.000Z"
+    ]
 }

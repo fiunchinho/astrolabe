@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/redhat-summit"
+            "href": "/conferences/redhat-summit.json"
         }
     },
     "name": "Red Hat Summit",
     "date": "May 2-4",
     "city": "Boston, Massachusetts",
-    "url": "https://www.redhat.com/en/summit/2017"
+    "url": "https://www.redhat.com/en/summit/2017",
+    "tags": [
+        "redhat"
+    ],
+    "days": [
+        "2017-05-02T13:00:00.000Z",
+        "2017-05-03T13:00:00.000Z",
+        "2017-05-04T13:00:00.000Z"
+    ]
 }

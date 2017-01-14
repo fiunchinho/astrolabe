@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/enigma"
+            "href": "/conferences/enigma.json"
         }
     },
     "name": "Enigma",
     "date": "January 30 - February 1",
     "city": "San Francisco, California",
-    "url": "https://www.usenix.org/conference/enigma2017"
+    "url": "https://www.usenix.org/conference/enigma2017",
+    "tags": [],
+    "days": [
+        "2017-01-30T14:00:00.000Z",
+        "2017-01-31T14:00:00.000Z",
+        "2017-02-01T14:00:00.000Z"
+    ]
 }

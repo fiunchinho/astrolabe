@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/citrixsynergy"
+            "href": "/conferences/citrixsynergy.json"
         }
     },
     "name": "Citrix Synergy",
     "date": "May 23-25",
     "city": "Orlando, Florida",
-    "url": "https://www.citrixsynergy.com/"
+    "url": "https://www.citrixsynergy.com/",
+    "tags": [],
+    "days": [
+        "2017-05-23T13:00:00.000Z",
+        "2017-05-24T13:00:00.000Z",
+        "2017-05-25T13:00:00.000Z"
+    ]
 }

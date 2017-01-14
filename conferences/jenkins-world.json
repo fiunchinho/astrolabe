@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/jenkins-world"
+            "href": "/conferences/jenkins-world.json"
         }
     },
     "name": "Jenkins World and User Conferences",
     "date": "TBD",
     "city": "Various Locations Worldwide",
-    "url": "https://www.cloudbees.com/company/events/juc"
+    "url": "https://www.cloudbees.com/company/events/juc",
+    "tags": []
 }

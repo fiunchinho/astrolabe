@@ -1,11 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/aws-santiago"
+            "href": "/conferences/aws-santiago.json"
         }
     },
     "name": "AWS Summit Santiago",
     "date": "TBD",
     "city": "Santiago, Chile",
-    "url": "https://aws.amazon.com/es/summits/santiago/"
+    "url": "https://aws.amazon.com/es/summits/santiago/",
+    "tags": [
+        "aws",
+        "cloud"
+    ]
 }

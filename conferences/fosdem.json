@@ -1,11 +1,16 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/fosdem"
+            "href": "/conferences/fosdem.json"
         }
     },
     "name": "Fosdem",
     "date": "February 4-5",
     "city": "Brussels, Belgium",
-    "url": "https://fosdem.org/2017/"
+    "url": "https://fosdem.org/2017/",
+    "tags": [],
+    "days": [
+        "2017-02-04T14:00:00.000Z",
+        "2017-02-05T14:00:00.000Z"
+    ]
 }

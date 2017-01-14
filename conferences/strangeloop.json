@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/strangeloop"
+            "href": "/conferences/strangeloop.json"
         }
     },
     "name": "The Strange Loop",
     "date": "September 28-30",
     "city": "St. Louis, Missouri",
-    "url": "http://www.thestrangeloop.com/"
+    "url": "http://www.thestrangeloop.com/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-09-28T13:00:00.000Z",
+        "2017-09-29T13:00:00.000Z",
+        "2017-09-30T13:00:00.000Z"
+    ]
 }

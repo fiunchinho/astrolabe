@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/rubyconf"
+            "href": "/conferences/rubyconf.json"
         }
     },
     "name": "RubyConf",
     "date": "TBD",
     "city": "Cinncinati, Ohio",
-    "url": "http://rubyconf.org/"
+    "url": "http://rubyconf.org/",
+    "tags": []
 }

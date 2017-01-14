@@ -1,11 +1,22 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/djangocon-europe"
+            "href": "/conferences/djangocon-europe.json"
         }
     },
     "name": "Djangocon Europe",
     "date": "April 3-7",
     "city": "Budapest, Hungary",
-    "url": "https://2017.djangocon.eu/"
+    "url": "https://2017.djangocon.eu/",
+    "tags": [
+        "dev",
+        "python"
+    ],
+    "days": [
+        "2017-04-03T13:00:00.000Z",
+        "2017-04-04T13:00:00.000Z",
+        "2017-04-05T13:00:00.000Z",
+        "2017-04-06T13:00:00.000Z",
+        "2017-04-07T13:00:00.000Z"
+    ]
 }

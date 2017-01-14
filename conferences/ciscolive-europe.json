@@ -1,0 +1,19 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/ciscolive-europe.json"
+        }
+    },
+    "name": "Cisco Live",
+    "date": "February 20-24",
+    "city": "Berlin, Germany",
+    "url": "http://www.ciscolive.com/emea/",
+    "tags": [],
+    "days": [
+        "2017-02-20T14:00:00.000Z",
+        "2017-02-21T14:00:00.000Z",
+        "2017-02-22T14:00:00.000Z",
+        "2017-02-23T14:00:00.000Z",
+        "2017-02-24T14:00:00.000Z"
+    ]
+}

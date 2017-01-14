@@ -1,11 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/cloudidentitysummit"
+            "href": "/conferences/cloudidentitysummit.json"
         }
     },
     "name": "Cloud Identity Summit",
     "date": "June 19-22",
     "city": "Chicago, Illinois",
-    "url": "http://www.cloudidentitysummit.com/"
+    "url": "http://www.cloudidentitysummit.com/",
+    "tags": [
+        "cloud"
+    ],
+    "days": [
+        "2017-06-19T13:00:00.000Z",
+        "2017-06-20T13:00:00.000Z",
+        "2017-06-21T13:00:00.000Z",
+        "2017-06-22T13:00:00.000Z"
+    ]
 }

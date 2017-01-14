@@ -1,11 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/aws-toronto"
+            "href": "/conferences/aws-toronto.json"
         }
     },
     "name": "AWS Summit Toronto",
     "date": "TBD",
     "city": "Toronto, Canada",
-    "url": "https://aws.amazon.com/summits/enterprise-summit-toronto/"
+    "url": "https://aws.amazon.com/summits/enterprise-summit-toronto/",
+    "tags": [
+        "aws",
+        "cloud"
+    ]
 }

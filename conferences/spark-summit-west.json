@@ -1,0 +1,19 @@
+{
+    "_links": {
+        "self": {
+            "href": "/conferences/spark-summit-west.json"
+        }
+    },
+    "name": "Spark Summit",
+    "date": "June 5-7",
+    "city": "San Francisco, California",
+    "url": "https://spark-summit.org/2017/",
+    "tags": [
+        "big-data"
+    ],
+    "days": [
+        "2017-06-05T13:00:00.000Z",
+        "2017-06-06T13:00:00.000Z",
+        "2017-06-07T13:00:00.000Z"
+    ]
+}

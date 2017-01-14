@@ -1,11 +1,22 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/vslive-vegas"
+            "href": "/conferences/vslive-vegas.json"
         }
     },
     "name": "Visual Studio Live!",
     "date": "March 13-17",
     "city": "Las Vegas, Nevada",
-    "url": "https://vslive.com/Home.aspx"
+    "url": "https://vslive.com/Home.aspx",
+    "tags": [
+        ".net",
+        "microsoft"
+    ],
+    "days": [
+        "2017-03-13T14:00:00.000Z",
+        "2017-03-14T14:00:00.000Z",
+        "2017-03-15T14:00:00.000Z",
+        "2017-03-16T14:00:00.000Z",
+        "2017-03-17T14:00:00.000Z"
+    ]
 }

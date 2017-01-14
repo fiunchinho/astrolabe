@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/netapp-insight"
+            "href": "/conferences/netapp-insight.json"
         }
     },
     "name": "NetApp Insight",
     "date": "October 2-5",
     "city": "Las Vegas, Nevada",
-    "url": "http://www.netapp-insight.com/"
+    "url": "http://www.netapp-insight.com/",
+    "tags": [],
+    "days": [
+        "2017-10-02T13:00:00.000Z",
+        "2017-10-03T13:00:00.000Z",
+        "2017-10-04T13:00:00.000Z",
+        "2017-10-05T13:00:00.000Z"
+    ]
 }

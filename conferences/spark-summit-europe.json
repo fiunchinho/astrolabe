@@ -1,11 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/spark-summit-europe"
+            "href": "/conferences/spark-summit-europe.json"
         }
     },
     "name": "Spark Summit Europe",
     "date": "TBD",
     "city": "Amsterdam, the Netherlands",
-    "url": "https://spark-summit.org/"
+    "url": "https://spark-summit.org/",
+    "tags": [
+        "big-data"
+    ]
 }

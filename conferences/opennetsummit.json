@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/opennetsummit"
+            "href": "/conferences/opennetsummit.json"
         }
     },
     "name": "Open Networking Summit",
     "date": "April 3-6",
     "city": "Santa Clara, California",
-    "url": "http://www.opennetsummit.org/"
+    "url": "http://www.opennetsummit.org/",
+    "tags": [],
+    "days": [
+        "2017-04-03T13:00:00.000Z",
+        "2017-04-04T13:00:00.000Z",
+        "2017-04-05T13:00:00.000Z",
+        "2017-04-06T13:00:00.000Z"
+    ]
 }

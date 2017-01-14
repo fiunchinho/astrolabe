@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/soups"
+            "href": "/conferences/soups.json"
         }
     },
     "name": "SOUPS",
     "date": "July 12-14",
     "city": "Santa Clara, California",
-    "url": "https://www.usenix.org/conference/soups2016"
+    "url": "https://www.usenix.org/conference/soups2016",
+    "tags": [],
+    "days": [
+        "2017-07-12T13:00:00.000Z",
+        "2017-07-13T13:00:00.000Z",
+        "2017-07-14T13:00:00.000Z"
+    ]
 }

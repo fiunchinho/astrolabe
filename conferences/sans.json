@@ -1,11 +1,22 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/sans"
+            "href": "/conferences/sans.json"
         }
     },
     "name": "SANS 2016",
     "date": "April 7-14",
     "city": "Orlando, Florida",
-    "url": "https://www.sans.org/event/sans-2017"
+    "url": "https://www.sans.org/event/sans-2017",
+    "tags": [],
+    "days": [
+        "2017-04-07T13:00:00.000Z",
+        "2017-04-08T13:00:00.000Z",
+        "2017-04-09T13:00:00.000Z",
+        "2017-04-10T13:00:00.000Z",
+        "2017-04-11T13:00:00.000Z",
+        "2017-04-12T13:00:00.000Z",
+        "2017-04-13T13:00:00.000Z",
+        "2017-04-14T13:00:00.000Z"
+    ]
 }

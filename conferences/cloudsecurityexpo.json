@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/cloudsecurityexpo"
+            "href": "/conferences/cloudsecurityexpo.json"
         }
     },
     "name": "Cloud Security Expo",
     "date": "March 15-16",
     "city": "London, England",
-    "url": "http://www.cloudsecurityexpo.com/"
+    "url": "http://www.cloudsecurityexpo.com/",
+    "tags": [
+        "cloud",
+        "security"
+    ],
+    "days": [
+        "2017-03-15T14:00:00.000Z",
+        "2017-03-16T14:00:00.000Z"
+    ]
 }

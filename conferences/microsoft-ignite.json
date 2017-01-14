@@ -1,11 +1,21 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/microsoft-ignite"
+            "href": "/conferences/microsoft-ignite.json"
         }
     },
     "name": "Microsoft Ignite",
     "date": "September 25-29",
     "city": "Orlando, Florida",
-    "url": "http://ignite.microsoft.com/"
+    "url": "http://ignite.microsoft.com/",
+    "tags": [
+        "microsoft"
+    ],
+    "days": [
+        "2017-09-25T13:00:00.000Z",
+        "2017-09-26T13:00:00.000Z",
+        "2017-09-27T13:00:00.000Z",
+        "2017-09-28T13:00:00.000Z",
+        "2017-09-29T13:00:00.000Z"
+    ]
 }

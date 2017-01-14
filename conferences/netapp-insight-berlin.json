@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/netapp-insight-berlin"
+            "href": "/conferences/netapp-insight-berlin.json"
         }
     },
     "name": "NetApp Insight",
     "date": "November 13-16",
     "city": "Berlin, Germany",
-    "url": "http://www.netapp-insight.com/"
+    "url": "http://www.netapp-insight.com/",
+    "tags": [],
+    "days": [
+        "2017-11-13T14:00:00.000Z",
+        "2017-11-14T14:00:00.000Z",
+        "2017-11-15T14:00:00.000Z",
+        "2017-11-16T14:00:00.000Z"
+    ]
 }

@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devops-enterprise-california"
+            "href": "/conferences/devops-enterprise-california.json"
         }
     },
     "name": "DevOps Enterprise Summit",
     "date": "November 13-15",
     "city": "San Francisco, California",
-    "url": "http://events.itrevolution.com/"
+    "url": "http://events.itrevolution.com/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-11-13T14:00:00.000Z",
+        "2017-11-14T14:00:00.000Z",
+        "2017-11-15T14:00:00.000Z"
+    ]
 }

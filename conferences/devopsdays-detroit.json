@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devopsdays-detroit"
+            "href": "/conferences/devopsdays-detroit.json"
         }
     },
     "name": "DevOpsDays Detroit",
     "date": "September 27-28",
     "city": "Detroit, Michigan",
-    "url": "https://www.devopsdays.org/events/2017-detroit/welcome"
+    "url": "https://www.devopsdays.org/events/2017-detroit/welcome",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-09-27T13:00:00.000Z",
+        "2017-09-28T13:00:00.000Z"
+    ]
 }

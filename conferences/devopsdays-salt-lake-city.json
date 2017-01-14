@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devopsdays-salt-lake-city"
+            "href": "/conferences/devopsdays-salt-lake-city.json"
         }
     },
     "name": "DevOpsDays Salt Lake City",
     "date": "May 16-17",
     "city": "Salt Lake City, Utah",
-    "url": "https://www.devopsdays.org/events/2017-salt-lake-city/welcome"
+    "url": "https://www.devopsdays.org/events/2017-salt-lake-city/welcome",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-05-16T13:00:00.000Z",
+        "2017-05-17T13:00:00.000Z"
+    ]
 }

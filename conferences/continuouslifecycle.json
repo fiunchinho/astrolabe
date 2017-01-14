@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/continuouslifecycle"
+            "href": "/conferences/continuouslifecycle.json"
         }
     },
     "name": "Continuous Life Cycle",
     "date": "May 17-19",
     "city": "London, England",
-    "url": "http://continuouslifecycle.london/"
+    "url": "http://continuouslifecycle.london/",
+    "tags": [],
+    "days": [
+        "2017-05-17T13:00:00.000Z",
+        "2017-05-18T13:00:00.000Z",
+        "2017-05-19T13:00:00.000Z"
+    ]
 }

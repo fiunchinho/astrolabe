@@ -1,11 +1,22 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/vslive-orlando"
+            "href": "/conferences/vslive-orlando.json"
         }
     },
     "name": "Visual Studio Live! 360",
     "date": "March 13-17",
     "city": "Orlando, Florida",
-    "url": "https://vslive.com/Home.aspx"
+    "url": "https://vslive.com/Home.aspx",
+    "tags": [
+        ".net",
+        "microsoft"
+    ],
+    "days": [
+        "2017-03-13T14:00:00.000Z",
+        "2017-03-14T14:00:00.000Z",
+        "2017-03-15T14:00:00.000Z",
+        "2017-03-16T14:00:00.000Z",
+        "2017-03-17T14:00:00.000Z"
+    ]
 }

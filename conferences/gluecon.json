@@ -1,11 +1,16 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/gluecon"
+            "href": "/conferences/gluecon.json"
         }
     },
     "name": "Gluecon",
     "date": "May 24-25",
     "city": "Broomfield, Colorado",
-    "url": "http://gluecon.com/"
+    "url": "http://gluecon.com/",
+    "tags": [],
+    "days": [
+        "2017-05-24T13:00:00.000Z",
+        "2017-05-25T13:00:00.000Z"
+    ]
 }

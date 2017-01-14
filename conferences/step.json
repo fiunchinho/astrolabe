@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/step"
+            "href": "/conferences/step.json"
         }
     },
     "name": "STEP",
     "date": "TBD",
     "city": "Dubai",
-    "url": "https://stepconference.com/"
+    "url": "https://stepconference.com/",
+    "tags": []
 }

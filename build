@@ -1,0 +1,16 @@
+#!/usr/bin/env node
+
+var conferences = require('./conferences.json');
+var fs = require("fs");
+
+conferences._embedded.conferences.forEach(function(conf){
+	var slug = conf._links.self.href.replace("/conferences/", "");
+	var path = "./conferences/" + slug;
+	fs.writeFile(path, JSON.stringify(conf, null, 4), function(error) {
+	     if (error) {
+	       console.error("write error:  " + error.message);
+	     } else {
+	       console.log("Successful Write to " + path);
+	     }
+	});
+});

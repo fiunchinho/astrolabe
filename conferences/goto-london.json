@@ -1,11 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/goto-london"
+            "href": "/conferences/goto-london.json"
         }
     },
     "name": "GoTo London",
     "date": "TBD",
     "city": "London, England",
-    "url": "http://gotoldn.com/"
+    "url": "http://gotoldn.com/",
+    "tags": [
+        "devops"
+    ]
 }

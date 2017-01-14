@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/nsdi"
+            "href": "/conferences/nsdi.json"
         }
     },
     "name": "NSDI",
     "date": "March 27-29",
     "city": "Boston, Massachusetts",
-    "url": "https://www.usenix.org/conference/nsdi17"
+    "url": "https://www.usenix.org/conference/nsdi17",
+    "tags": [],
+    "days": [
+        "2017-03-27T13:00:00.000Z",
+        "2017-03-28T13:00:00.000Z",
+        "2017-03-29T13:00:00.000Z"
+    ]
 }

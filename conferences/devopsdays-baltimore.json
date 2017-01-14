@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devopsdays-baltimore"
+            "href": "/conferences/devopsdays-baltimore.json"
         }
     },
     "name": "DevOpsDays Baltimore",
     "date": "March 7-8",
     "city": "Baltimore, Maryland",
-    "url": "https://www.devopsdays.org/events/2017-baltimore/welcome"
+    "url": "https://www.devopsdays.org/events/2017-baltimore/welcome",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-03-07T14:00:00.000Z",
+        "2017-03-08T14:00:00.000Z"
+    ]
 }

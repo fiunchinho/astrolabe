@@ -1,11 +1,16 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/bulgariawebsummit"
+            "href": "/conferences/bulgariawebsummit.json"
         }
     },
     "name": "Bulgaria Web Summit",
     "date": "April 7-8",
     "city": "Sofia, Bulgaria",
-    "url": "http://bulgariawebsummit.com/"
+    "url": "http://bulgariawebsummit.com/",
+    "tags": [],
+    "days": [
+        "2017-04-07T13:00:00.000Z",
+        "2017-04-08T13:00:00.000Z"
+    ]
 }

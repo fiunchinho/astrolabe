@@ -1,11 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devopsdays-toronto"
+            "href": "/conferences/devopsdays-toronto.json"
         }
     },
     "name": "DevOpsDays Toronto",
     "date": "TBD",
     "city": "Toronto, Canada",
-    "url": "https://www.devopsdays.org/events/2017-toronto/welcome"
+    "url": "https://www.devopsdays.org/events/2017-toronto/welcome",
+    "tags": [
+        "devops"
+    ]
 }

@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/coreos-fest"
+            "href": "/conferences/coreos-fest.json"
         }
     },
     "name": "CoreOS Fest",
     "date": "TBD",
     "city": "San Francisco, California and Berlin, Germany",
-    "url": "https://coreos.com/fest/"
+    "url": "https://coreos.com/fest/",
+    "tags": []
 }

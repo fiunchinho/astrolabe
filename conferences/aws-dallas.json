@@ -1,11 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/aws-dallas"
+            "href": "/conferences/aws-dallas.json"
         }
     },
     "name": "AWS Summit Dallas",
     "date": "TBD",
     "city": "Dallas, Texas",
-    "url": "https://aws.amazon.com/summits/enterprise-summit-dallas/"
+    "url": "https://aws.amazon.com/summits/enterprise-summit-dallas/",
+    "tags": [
+        "aws",
+        "cloud"
+    ]
 }

@@ -1,11 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/oreilly-artificial-intelligence"
+            "href": "/conferences/oreilly-artificial-intelligence.json"
         }
     },
     "name": "O'Reilly Artificial Intelligence",
     "date": "June 27-29",
     "city": "New York City, NY",
-    "url": "http://conferences.oreilly.com/artificial-intelligence/ai-ny"
+    "url": "http://conferences.oreilly.com/artificial-intelligence/ai-ny",
+    "tags": [
+        "artificial-intelligence"
+    ],
+    "days": [
+        "2017-06-27T13:00:00.000Z",
+        "2017-06-28T13:00:00.000Z",
+        "2017-06-29T13:00:00.000Z"
+    ]
 }

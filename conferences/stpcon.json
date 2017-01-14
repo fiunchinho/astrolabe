@@ -1,11 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/stpcon"
+            "href": "/conferences/stpcon.json"
         }
     },
     "name": "Software Test Professionals",
     "date": "March 14-17",
     "city": "San Diego, California",
-    "url": "http://www.stpcon.com/"
+    "url": "http://www.stpcon.com/",
+    "tags": [
+        "testing"
+    ],
+    "days": [
+        "2017-03-14T14:00:00.000Z",
+        "2017-03-15T14:00:00.000Z",
+        "2017-03-16T14:00:00.000Z",
+        "2017-03-17T14:00:00.000Z"
+    ]
 }

@@ -1,11 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/iot-world-conference"
+            "href": "/conferences/iot-world-conference.json"
         }
     },
     "name": "IoT World Conference",
     "date": "TBD",
     "city": "London, England",
-    "url": "http://iotinternetofthingsconference.com/"
+    "url": "http://iotinternetofthingsconference.com/",
+    "tags": [
+        "iot"
+    ]
 }

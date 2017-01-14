@@ -1,11 +1,16 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/datacentreworld-germany"
+            "href": "/conferences/datacentreworld-germany.json"
         }
     },
     "name": "Data Centre World",
     "date": "November 28-29",
     "city": "Frankfurt, Germany",
-    "url": "http://www.datacentreworld.de/"
+    "url": "http://www.datacentreworld.de/",
+    "tags": [],
+    "days": [
+        "2017-11-28T14:00:00.000Z",
+        "2017-11-29T14:00:00.000Z"
+    ]
 }

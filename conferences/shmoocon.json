@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/shmoocon"
+            "href": "/conferences/shmoocon.json"
         }
     },
     "name": "ShmooCon",
     "date": "January 13-15",
     "city": "Washington, D.C.",
-    "url": "http://shmoocon.org/"
+    "url": "http://shmoocon.org/",
+    "tags": [],
+    "days": [
+        "2017-01-13T14:00:00.000Z",
+        "2017-01-14T14:00:00.000Z",
+        "2017-01-15T14:00:00.000Z"
+    ]
 }

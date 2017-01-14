@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/keep-austin-agile"
+            "href": "/conferences/keep-austin-agile.json"
         }
     },
     "name": "Keep Austin Agile",
     "date": "May 25",
     "city": "Austin, Texas",
-    "url": "http://conference.a­gileaustin.org"
+    "url": "http://conference.a­gileaustin.org",
+    "tags": [
+        "agile"
+    ],
+    "days": [
+        "2017-05-25T13:00:00.000Z"
+    ]
 }

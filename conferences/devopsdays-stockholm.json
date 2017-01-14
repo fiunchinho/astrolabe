@@ -1,11 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devopsdays-stockholm"
+            "href": "/conferences/devopsdays-stockholm.json"
         }
     },
     "name": "DevOpsDays Stockholm",
     "date": "TBD",
     "city": "Stockholm, Sweden",
-    "url": "https://www.devopsdays.org/events/2017-stockholm/welcome"
+    "url": "https://www.devopsdays.org/events/2017-stockholm/welcome",
+    "tags": [
+        "devops"
+    ]
 }

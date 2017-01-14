@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/hostingcon-europe"
+            "href": "/conferences/hostingcon-europe.json"
         }
     },
     "name": "HostingCon Europe",
     "date": "TBD",
     "city": "Amsterdam, the Netherlands",
-    "url": "http://europe.hostingcon.com/"
+    "url": "http://europe.hostingcon.com/",
+    "tags": []
 }

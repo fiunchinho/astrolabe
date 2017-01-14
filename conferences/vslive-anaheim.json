@@ -1,11 +1,21 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/vslive-anaheim"
+            "href": "/conferences/vslive-anaheim.json"
         }
     },
     "name": "Visual Studio Live!",
     "date": "October 16-19",
     "city": "Anaheim, California",
-    "url": "https://vslive.com/Home.aspx"
+    "url": "https://vslive.com/Home.aspx",
+    "tags": [
+        ".net",
+        "microsoft"
+    ],
+    "days": [
+        "2017-10-16T13:00:00.000Z",
+        "2017-10-17T13:00:00.000Z",
+        "2017-10-18T13:00:00.000Z",
+        "2017-10-19T13:00:00.000Z"
+    ]
 }

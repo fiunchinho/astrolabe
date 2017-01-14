@@ -1,11 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/pipeline"
+            "href": "/conferences/pipeline.json"
         }
     },
     "name": "Pipeline",
     "date": "March 21",
     "city": "London, England",
-    "url": "http://web.pipelineconf.info/"
+    "url": "http://web.pipelineconf.info/",
+    "tags": [],
+    "days": [
+        "2017-03-21T14:00:00.000Z"
+    ]
 }

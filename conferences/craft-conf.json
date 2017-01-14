@@ -1,11 +1,15 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/craft-conf"
+            "href": "/conferences/craft-conf.json"
         }
     },
     "name": "Craft Conf",
     "date": "TBD",
     "city": "Budapest, Hungary",
-    "url": "craft-conf.com"
+    "url": "craft-conf.com",
+    "tags": [
+        "craftmanship",
+        "devops"
+    ]
 }

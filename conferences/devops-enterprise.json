@@ -1,11 +1,18 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devops-enterprise"
+            "href": "/conferences/devops-enterprise.json"
         }
     },
     "name": "DevOps Enterprise Summit",
     "date": "June 5-6",
     "city": "London, England",
-    "url": "http://events.itrevolution.com/"
+    "url": "http://events.itrevolution.com/",
+    "tags": [
+        "devops"
+    ],
+    "days": [
+        "2017-06-05T13:00:00.000Z",
+        "2017-06-06T13:00:00.000Z"
+    ]
 }

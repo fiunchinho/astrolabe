@@ -1,11 +1,21 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/vslive-chicago"
+            "href": "/conferences/vslive-chicago.json"
         }
     },
     "name": "Visual Studio Live!",
     "date": "September 18-21",
     "city": "Chicago, Illinois",
-    "url": "https://vslive.com/Home.aspx"
+    "url": "https://vslive.com/Home.aspx",
+    "tags": [
+        ".net",
+        "microsoft"
+    ],
+    "days": [
+        "2017-09-18T13:00:00.000Z",
+        "2017-09-19T13:00:00.000Z",
+        "2017-09-20T13:00:00.000Z",
+        "2017-09-21T13:00:00.000Z"
+    ]
 }

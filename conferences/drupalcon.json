@@ -1,11 +1,22 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/drupalcon"
+            "href": "/conferences/drupalcon.json"
         }
     },
     "name": "DrupalCon",
     "date": "April 24-28",
     "city": "Baltimore, Maryland",
-    "url": "https://events.drupal.org/baltimore2017"
+    "url": "https://events.drupal.org/baltimore2017",
+    "tags": [
+        "dev",
+        "php"
+    ],
+    "days": [
+        "2017-04-24T13:00:00.000Z",
+        "2017-04-25T13:00:00.000Z",
+        "2017-04-26T13:00:00.000Z",
+        "2017-04-27T13:00:00.000Z",
+        "2017-04-28T13:00:00.000Z"
+    ]
 }

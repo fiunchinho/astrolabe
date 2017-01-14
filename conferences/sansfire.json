@@ -1,11 +1,22 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/sansfire"
+            "href": "/conferences/sansfire.json"
         }
     },
     "name": "SANSFIRE",
     "date": "June 22-29",
     "city": "Washington, D.C.",
-    "url": "https://www.sans.org/event/sansfire-2017"
+    "url": "https://www.sans.org/event/sansfire-2017",
+    "tags": [],
+    "days": [
+        "2017-06-22T13:00:00.000Z",
+        "2017-06-23T13:00:00.000Z",
+        "2017-06-24T13:00:00.000Z",
+        "2017-06-25T13:00:00.000Z",
+        "2017-06-26T13:00:00.000Z",
+        "2017-06-27T13:00:00.000Z",
+        "2017-06-28T13:00:00.000Z",
+        "2017-06-29T13:00:00.000Z"
+    ]
 }

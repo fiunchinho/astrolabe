@@ -1,11 +1,17 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/open-source-leadership-summit"
+            "href": "/conferences/open-source-leadership-summit.json"
         }
     },
     "name": "Open Source Leadership Summit",
     "date": "February 14-16",
     "city": "Lake Tahoe, California",
-    "url": "http://events.linuxfoundation.org/events/open-source-leadership-summit"
+    "url": "http://events.linuxfoundation.org/events/open-source-leadership-summit",
+    "tags": [],
+    "days": [
+        "2017-02-14T14:00:00.000Z",
+        "2017-02-15T14:00:00.000Z",
+        "2017-02-16T14:00:00.000Z"
+    ]
 }

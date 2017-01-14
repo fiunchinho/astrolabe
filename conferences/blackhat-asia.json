@@ -1,11 +1,20 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/blackhat-asia"
+            "href": "/conferences/blackhat-asia.json"
         }
     },
     "name": "Black Hat Asia",
     "date": "March 28-31",
     "city": "Singapore",
-    "url": "https://www.blackhat.com/asia-17/"
+    "url": "https://www.blackhat.com/asia-17/",
+    "tags": [
+        "security"
+    ],
+    "days": [
+        "2017-03-28T13:00:00.000Z",
+        "2017-03-29T13:00:00.000Z",
+        "2017-03-30T13:00:00.000Z",
+        "2017-03-31T13:00:00.000Z"
+    ]
 }

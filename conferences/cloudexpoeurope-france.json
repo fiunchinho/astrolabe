@@ -1,11 +1,16 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/cloudexpoeurope-france"
+            "href": "/conferences/cloudexpoeurope-france.json"
         }
     },
     "name": "Cloud Expo Europe",
     "date": "November 15-16",
     "city": "Paris, France",
-    "url": "http://www.cloudexpoeurope.fr/"
+    "url": "http://www.cloudexpoeurope.fr/",
+    "tags": [],
+    "days": [
+        "2017-11-15T14:00:00.000Z",
+        "2017-11-16T14:00:00.000Z"
+    ]
 }

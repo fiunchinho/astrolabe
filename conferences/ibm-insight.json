@@ -1,11 +1,12 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/ibm-insight"
+            "href": "/conferences/ibm-insight.json"
         }
     },
     "name": "IBM Insight",
     "date": "TBD",
     "city": "Las Vegas, Nevada",
-    "url": "http://www-01.ibm.com/software/events/insight/"
+    "url": "http://www-01.ibm.com/software/events/insight/",
+    "tags": []
 }

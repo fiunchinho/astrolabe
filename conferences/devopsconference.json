@@ -1,11 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "/conferences/devopsconference"
+            "href": "/conferences/devopsconference.json"
         }
     },
     "name": "DevOps Conference Germany",
     "date": "TBD",
     "city": "Munich, Germany",
-    "url": "http://devopsconference.de/"
+    "url": "http://devopsconference.de/",
+    "tags": [
+        "devops"
+    ]
 }
